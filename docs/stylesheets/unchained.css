@@ -1,0 +1,266 @@
+/* Unchained Wiki: fantasy Ultima Online theme */
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&display=swap");
+
+/* ---------- Light: aged parchment ---------- */
+[data-md-color-scheme="default"] {
+  --uo-ink: #3a2a1a;
+  --uo-ink-soft: #6b5640;
+  --uo-blood: #7a1e1e;
+  --uo-gold: #9a6b12;
+  --uo-leather: #2b1d14;
+  --uo-parch: #f3e7cc;
+  --uo-parch-deep: #e6d3a8;
+  --uo-edge: #c9ae78;
+
+  --md-primary-fg-color: var(--uo-leather);
+  --md-primary-fg-color--light: #4a3324;
+  --md-primary-fg-color--dark: #1a110b;
+  --md-primary-bg-color: #f1dfb2;
+  --md-primary-bg-color--light: #e8d3a0;
+  --md-accent-fg-color: var(--uo-blood);
+  --md-accent-fg-color--transparent: rgba(122, 30, 30, .1);
+
+  --md-default-bg-color: var(--uo-parch);
+  --md-default-fg-color: var(--uo-ink);
+  --md-default-fg-color--light: var(--uo-ink-soft);
+  --md-default-fg-color--lighter: rgba(58, 42, 26, .32);
+  --md-default-fg-color--lightest: rgba(58, 42, 26, .12);
+  --md-typeset-color: var(--uo-ink);
+  --md-typeset-a-color: var(--uo-blood);
+  --md-code-bg-color: #eadbb8;
+  --md-code-fg-color: #4a2d16;
+  --md-typeset-table-color: rgba(90, 60, 30, .25);
+  --md-footer-bg-color: var(--uo-leather);
+  --md-footer-bg-color--dark: #1a110b;
+
+  --uo-heading: var(--uo-blood);
+  --uo-rule: var(--uo-gold);
+  --uo-th-bg: #3a2718;
+  --uo-th-fg: #f1dfb2;
+  --uo-row-alt: rgba(150, 110, 50, .08);
+  --uo-card: rgba(255, 248, 228, .55);
+}
+
+/* ---------- Dark: torchlit dungeon ---------- */
+[data-md-color-scheme="slate"] {
+  --uo-ink: #e8dcc2;
+  --uo-ink-soft: #b9a888;
+  --uo-gold: #d4a84a;
+  --uo-ember: #e0793a;
+  --uo-stone: #16130f;
+  --uo-stone-up: #1f1a14;
+
+  --md-hue: 30;
+  --md-primary-fg-color: #0f0c09;
+  --md-primary-fg-color--light: #241c14;
+  --md-primary-fg-color--dark: #080604;
+  --md-primary-bg-color: #e8c877;
+  --md-primary-bg-color--light: #d4a84a;
+  --md-accent-fg-color: var(--uo-ember);
+  --md-accent-fg-color--transparent: rgba(224, 121, 58, .12);
+
+  --md-default-bg-color: var(--uo-stone);
+  --md-default-fg-color: var(--uo-ink);
+  --md-default-fg-color--light: var(--uo-ink-soft);
+  --md-default-fg-color--lighter: rgba(232, 220, 194, .32);
+  --md-default-fg-color--lightest: rgba(232, 220, 194, .1);
+  --md-typeset-color: var(--uo-ink);
+  --md-typeset-a-color: var(--uo-gold);
+  --md-code-bg-color: #241d16;
+  --md-code-fg-color: #f0d9a6;
+  --md-typeset-table-color: rgba(212, 168, 74, .2);
+  --md-footer-bg-color: #0f0c09;
+  --md-footer-bg-color--dark: #080604;
+
+  --uo-heading: var(--uo-gold);
+  --uo-rule: #8a6a2a;
+  --uo-th-bg: #2a2016;
+  --uo-th-fg: #e8c877;
+  --uo-row-alt: rgba(212, 168, 74, .05);
+  --uo-card: rgba(40, 32, 24, .6);
+}
+
+/* ---------- Page backgrounds ---------- */
+[data-md-color-scheme="default"] body,
+[data-md-color-scheme="default"] .md-main {
+  background-color: var(--uo-parch);
+  background-image:
+    radial-gradient(ellipse at 15% 10%, rgba(255, 250, 230, .7), transparent 55%),
+    radial-gradient(ellipse at 85% 90%, rgba(190, 150, 90, .25), transparent 60%),
+    radial-gradient(ellipse at 50% 50%, transparent 60%, rgba(120, 80, 30, .18) 100%);
+  background-attachment: fixed;
+}
+[data-md-color-scheme="slate"] body,
+[data-md-color-scheme="slate"] .md-main {
+  background-color: var(--uo-stone);
+  background-image:
+    radial-gradient(ellipse at 50% -10%, rgba(224, 121, 58, .12), transparent 55%),
+    radial-gradient(ellipse at 50% 120%, rgba(0, 0, 0, .6), transparent 60%);
+  background-attachment: fixed;
+}
+
+/* ---------- Typography ---------- */
+.md-typeset {
+  font-size: .86rem;
+  line-height: 1.7;
+}
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-header__topic,
+.md-tabs__link,
+.md-nav__title,
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  font-family: "Cinzel", "Times New Roman", serif;
+}
+.md-typeset h1 {
+  color: var(--uo-heading);
+  font-weight: 900;
+  letter-spacing: .04em;
+  text-align: center;
+  margin-bottom: .4em;
+}
+.md-typeset h1::after {
+  content: "❦";
+  display: block;
+  margin: .25em auto 0;
+  font-size: .6em;
+  color: var(--uo-rule);
+  background:
+    linear-gradient(var(--uo-rule), var(--uo-rule)) left center / 38% 1px no-repeat,
+    linear-gradient(var(--uo-rule), var(--uo-rule)) right center / 38% 1px no-repeat;
+}
+.md-typeset h2 {
+  color: var(--uo-heading);
+  font-weight: 700;
+  letter-spacing: .03em;
+  border-bottom: 1px solid var(--uo-rule);
+  padding-bottom: .2em;
+}
+.md-typeset h3,
+.md-typeset h4 {
+  color: var(--uo-heading);
+  font-weight: 700;
+}
+.md-typeset a:hover {
+  text-decoration: underline;
+}
+
+/* Illuminated first letter on the lead paragraph */
+.md-typeset h1 + p::first-letter {
+  float: left;
+  font-family: "Cinzel", serif;
+  font-weight: 900;
+  font-size: 3.1em;
+  line-height: .9;
+  margin: .06em .12em 0 0;
+  color: var(--uo-heading);
+}
+
+/* ---------- Header and tabs ---------- */
+.md-header {
+  border-bottom: 2px solid var(--uo-gold);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, .35);
+}
+.md-header__topic:first-child {
+  font-weight: 700;
+  letter-spacing: .08em;
+}
+.md-tabs {
+  border-bottom: 1px solid rgba(212, 168, 74, .35);
+}
+.md-tabs__link {
+  font-size: .68rem;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+.md-tabs__item--active .md-tabs__link {
+  color: #f5d98c;
+}
+.md-header__button.md-logo img {
+  height: 1.6rem;
+}
+
+/* ---------- Sidebar ---------- */
+.md-nav__link--active,
+.md-nav__item .md-nav__link--active {
+  color: var(--md-accent-fg-color);
+  font-weight: 700;
+}
+
+/* ---------- Tables ---------- */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--uo-rule);
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, .15);
+  background: var(--uo-card);
+  font-size: .78rem;
+}
+.md-typeset table:not([class]) th {
+  background: var(--uo-th-bg);
+  color: var(--uo-th-fg);
+  font-family: "Cinzel", serif;
+  font-weight: 700;
+  letter-spacing: .03em;
+  border-bottom: 2px solid var(--uo-gold);
+}
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background: var(--uo-row-alt);
+}
+.md-typeset table:not([class]) tbody tr:hover {
+  background: var(--md-accent-fg-color--transparent);
+}
+
+/* ---------- Admonitions and code ---------- */
+.md-typeset .admonition,
+.md-typeset details {
+  background: var(--uo-card);
+  border-width: 1px 1px 1px 4px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, .12);
+  font-size: .8rem;
+}
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-family: "Cinzel", serif;
+  font-weight: 700;
+  letter-spacing: .02em;
+}
+.md-typeset code {
+  border-radius: 3px;
+}
+.md-typeset hr {
+  border-bottom: 1px solid var(--uo-rule);
+}
+
+/* ---------- Home page ---------- */
+.md-typeset p.uo-crest {
+  text-align: center;
+  margin: 0 0 .5rem;
+}
+.md-typeset p.uo-crest img {
+  width: 104px;
+  filter: drop-shadow(0 3px 6px rgba(0, 0, 0, .4));
+}
+.md-typeset p.uo-tagline {
+  font-family: "Cinzel", serif;
+  font-size: 1rem;
+  color: var(--md-default-fg-color--light);
+  letter-spacing: .05em;
+  text-align: center;
+  margin-top: 0;
+}
+.md-typeset h1 + p.uo-tagline::first-letter,
+.md-typeset h1 + p.uo-crest::first-letter {
+  float: none;
+  font-size: inherit;
+  font-weight: inherit;
+  margin: 0;
+  color: inherit;
+}
+
+/* ---------- Footer ---------- */
+.md-footer {
+  border-top: 2px solid var(--uo-gold);
+}
