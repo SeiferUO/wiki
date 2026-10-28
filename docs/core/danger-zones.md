@@ -20,7 +20,7 @@ Each rotation picks:
 - **Monsters inside take 30% less damage** (melee and spells).
 - [Expedition rifts](../quests/expeditions.md) opened inside a Danger Zone are **lawless**.
 - Paladins can heal criminals and murderers here without being punished.
-- [Monthly Challenge](../quests/monthly-challenge.md) XP from kills is **25% lower** inside.
+- [Monthly Challenge](../quests/monthly-challenge.md) XP from kills is **25% higher** inside.
 - Danger Zones affect [rare loot](../items/rare-loot.md): their treasure bonus applies there, and kills outside Danger Zones get −10%.
 
 ## Bonuses

@@ -1,12 +1,14 @@
 # Treasure Maps & Dungeon Chests
 
-Three kinds of buried or hidden treasure:
+Kinds of buried, hidden or dropped treasure:
 
 | | Where | Found with |
 |---|---|---|
 | [Treasure maps](#treasure-maps) | Buried on land | A decoded treasure map and a shovel |
 | [Dungeon chests](#dungeon-chests) | Hidden in dungeons | Walking near them |
 | [Waterstained chests](#waterstained-chests) | Out at sea | A waterstained map and a boat |
+| [Paragon chests](#paragon-chests) | Dropped by paragon monsters | Lockpicking |
+| [Rusty chests](#rusty-chests) | Fished up from the sea | A rusty key |
 
 ## Treasure maps
 
@@ -83,18 +85,7 @@ When an Unchained raffle is running, there's also a 5% × level chance for a raf
 
 ### Level 6 and 7 maps
 
-**Carlos**, the treasure map trader, deals in rare maps:
-
-- **World Knowledge:** drop undecoded level 1–5 maps on him for **1 point per map level**. At **100 points**, claim a **level 6 map**.
-- **Relocate:** move a decoded map's chest to a new spot (once every 5 minutes).
-- **Codex of Echoes:** costs **100 Reward Points**. Collect its **6 lore pages** (Felucca's Lore Pages) to reveal a hidden location. With **110 Lockpicking**, dig there for a **level 7 chest**, guarded by a story boss and 4–6 minions.
-
-Lore pages drop from level 6 chests (always), other treasure chests (rarely) and high-end bosses.
-
-| | Level 6 | Level 7 |
-|---|---|---|
-| Extra loot | a lore page | an artifact clothing piece |
-| PvM rune | Silver or Gold, always | Gold, always |
+**Carlos**, the treasure map trader, turns your extra maps into **level 6** maps and sells the **Codex of Echoes** that leads to a **level 7** chest. See [Level 6 & 7 Treasure Maps](carlos-maps.md).
 
 ## Dungeon chests
 
@@ -184,3 +175,70 @@ Opening a dungeon chest also counts for the **Treasure Hunt** [weekly task](../q
 Also possible: imbuing materials, high-end runic components, Item Bless Deeds, bounty scrolls, a rare hued item and [PvM runes](ankhs-runes.md#where-runes-drop) (3%, or 6% at level 4+).
 
 Opening a waterstained chest gives Monthly Challenge points, Seafarer score and Treasure Hunter XP, and counts for the Treasure Hunt weekly task.
+
+## Paragon chests
+
+**Paragon** monsters can drop a **paragon chest** on their corpse. Chests are locked and **trapped** (they explode when opened). Pick the lock to fill them with loot.
+
+| Chest | Lockpicking | Dropped by |
+|---|---|---|
+| **Lesser paragon chest** | 80 | Medium and Hard-tier paragons, and Wrong treasure maps |
+| **Paragon chest** | 100 | Elite and Legendary-tier paragons (most of the time) |
+| **Greater paragon chest** | 105 | Elite paragons (10%), Legendary paragons (20%) |
+| **Legendary paragon chest** | 110 | Greater paragons (sometimes) and Mythic monsters |
+
+A paragon has a **2.5%** chance to drop a chest, more for stronger ones: ×1.25 for Hard tier, ×1.5 for Elite, ×2 for Legendary and stronger. **Greater paragons** can drop any of the four.
+
+### Paragon chest loot
+
+| | Lesser | Regular | Greater | Legendary |
+|---|---|---|---|---|
+| Gold | 1,250–2,500 | 1,500–3,000 | 2,500–5,000 | 3,500–7,500 |
+| Magic items | 3 | 4 | 5 | 6 |
+| Magic spellbook | ✅ | ✅ | ✅ | ✅ |
+| Resources, reagents | ✅ | ✅ | ✅ | ✅ |
+| Enhancement scroll, orb fragment | ✅ | ✅ | ✅ | ✅ |
+| Treasure map | 15% (level 1–3) | 25% (2–4) | 25% (3–5) | always (4–5) |
+| Special loot | 15% | 25% | always | always |
+| Mage item | 25% | 35% | 50% | — |
+| Imbuing material | 25% | 50% | 75% | 2, always |
+| Mastery item | 25% | 50% | 75% | always |
+| [PvM rune](ankhs-runes.md#where-runes-drop) | 5% | 8% | 10% | 15% |
+| [Doom armor](../bosses/doom.md#doom-armor-sets) piece | 2.5% | 5% | 7.5% | 10% |
+| High-end runic component | 2.5% | 5% | 5% | 7.5% |
+| Song sheet | 2.5% | 5% | 6% | — |
+| Pet relic | — | — | 1% | 2.5% |
+| Item Bless Deed | — | — | 2.5% | 10% |
+| Rare-hued dungeon cloth | — | — | — | always |
+
+Magic items and spellbooks are stronger in better chests.
+
+## Rusty chests
+
+**Rusty chests** and **rusty keys** are dredged up from the sea: rare fishing catches, [fishing hotspots](boats.md) and the fisher guildmaster.
+
+- Rusty chests can't be lockpicked. Put the chest in your **backpack**, double-click a **rusty key** and target the chest. The key is used up.
+- They're **trapped**, like paragon chests.
+- Your **Hunter's Luck** makes their magic items stronger and adds gold.
+
+| | Small rusty chest | Rusty chest |
+|---|---|---|
+| Gold | 1,250–3,000 | 2,000–4,000 |
+| Magic items | 3–4 | 4–5, stronger |
+| Magic spellbook, resources, reagents | ✅ | ✅ |
+| Enhancement scroll, orb fragment | ✅ | ✅ |
+| Treasure map | 20% (level 1–3) | 25% (level 2–5) |
+| Special loot | 20% | 25% |
+| Mage item | 30% | 42% |
+| Imbuing material, mastery item | 37% each | 62% each |
+| Cannonball crate | 30% | 40% (including greater and deadly crates) |
+| Special fishing net | 25% | 25% |
+| Wire | 15% (copper or iron) | 25% (copper, iron, silver or gold) |
+| Nautical decoration | 10% | 15% |
+| **Mossy armor** piece | 2.5% | 5% |
+| [Doom armor](../bosses/doom.md#doom-armor-sets) piece | 3.7% | 6.2% |
+| Song sheet, high-end runic component | 3.7% each | 5.5% each |
+| Seaweed or Octopus Ink | 1% | 5% |
+| **Ancient Fishing Pole** (500–1,000 uses) | 0.3% | 0.5% |
+| Pet relic | — | 0.5% |
+| Item Bless Deed | — | 1.2% |

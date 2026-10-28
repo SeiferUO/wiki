@@ -8,6 +8,9 @@ A **mage staff** (the **Tribal Staff**) is a one-handed caster weapon. It fires 
 - **Damage** scales with Evaluating Intelligence, Intelligence and Focus (below).
 - Holding a staff counts as a **mage** weapon for [masteries](../masteries/index.md#roles).
 - You can **cast spells** while holding a staff, outside PvP combat.
+
+!!! tip "Pro-tip"
+    To cast while your staff is equipped, uncheck **Auto Unequip hands before casting** in Razor: **Options > Additional Options**. Spell channeling doesn't work in PvP.
 - Staves are crafted with **Carpentry**. They roll spellbook properties (see [Gear Properties](../items/gear-properties.md#spellbooks-and-mage-staves) and [Enchanting & Crafting](../items/enchanting-crafting.md#mage-staves)).
 
 ## Firing

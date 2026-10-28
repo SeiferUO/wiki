@@ -26,11 +26,7 @@ tick damage = 1 + (target's current HP × poison %)   (kept between the min and 
 
 Use the skill, target a **poison potion**, then target what you want to poison (within 2 tiles). It takes 2 seconds.
 
-You can poison:
-
-- **one-handed slashing or piercing weapons**,
-- **food**,
-- fukiya darts and shuriken.
+You can poison **one-handed slashing or piercing weapons** and **food**.
 
 | Potion | Skill range | Weapon charges |
 |---|---|---|
@@ -39,7 +35,7 @@ You can poison:
 | Greater Poison | 60–100 | 14 |
 | Deadly Poison | 80–100 | 12 |
 
-- The skill check is easier the closer you are to the top of the potion's range. You get the empty bottle back.
+- Your chance to succeed goes up as your skill moves from the bottom to the top of the potion's range. You get the empty bottle back.
 - Each success costs **20 Karma**.
 - If you fail below 80 skill, there's a **5% chance to poison yourself**.
 - Skill delay: **10 s**. Not usable in duel pits.
@@ -54,8 +50,24 @@ chance = 10% + Poisoning / 10 %      (20% at 100, 22% at 120)
 
 - Swords don't poison a target that's bleeding.
 - **Charges:** a successful poison always uses a charge against players. Against monsters it only uses one **65% − 0.4% per Poisoning point** of the time (25% at 100, 17% at 120).
+- **Assassin's Touch** ([Fencing codex](../codex/weapon-codex.md)): with a fencing weapon, each tier gives a **10% chance** (up to 50%) to keep the charge when it would be used against a monster.
 - Hitting monsters with a poisoned weapon gives Poisoning skill gains.
-- The Fencing codex's *Assassin's Touch* can keep a charge from being used on spears.
+- Spears don't keep poison: their charges are cleared at every server restart.
+
+### Poison spell
+
+The Magery **Poison** spell (3rd circle) poisons its target. Its strength depends on your **Magery + Poisoning**:
+
+| Magery + Poisoning | Poison |
+|---|---|
+| up to 130 | Lesser |
+| above 130 | Regular |
+| above 170 | Greater |
+| 200 or more | Greater, with a 10% chance of Deadly |
+
+- **Against players**, the spell loses 10 points for every tile past 3 tiles of distance. Players can resist it with Magic Resistance.
+- **Monsters** have a chance to resist the spell, depending on the monster. Poison-immune monsters always resist.
+- With the [Grimoire](../magic/grimoire.md), the spell gets stronger with its tier (see [below](#grimoire-poison-spell)).
 
 ### Poisoned food
 
@@ -90,7 +102,7 @@ With [Poison mastery](../masteries/index.md#poison-venom) active:
     - Chance = (Poisoning / 120) × (mastery level / 30), max 35%. At least 5% with 100+ Poisoning.
     - Cooldown: 30 s, down to 15 s at 120 Poisoning and level 30.
     - Only within 12 tiles of you. Bursts from your pets have a lower chance (25% for 1-slot pets, 50% for 2-slot, 75% for 3+).
-- **You** can't stay poisoned outside PvP: the poison is cured on its first tick.
+- **You** can't be poisoned outside PvP.
 - Your **pets** have a 10% + (level / 30) chance per tick to shake off poison (outside PvP).
 
 ### Grimoire Poison spell
@@ -105,7 +117,30 @@ With the [Grimoire](../magic/grimoire.md), your Poison spell gets stronger with 
 
 ## Resisting poison
 
+Each of these is a chance to **not get poisoned at all** (all of them work outside PvP only, except where noted):
+
+| Source | Chance |
+|---|---|
+| **Poison Resistance** properties on armor, clothing and jewelry, and Poison Resistance [PvM runes](../items/ankhs-runes.md) | 1% per point |
+| [Druidic](../masteries/druidic.md) **Ophidian** and **Bug** forms | 15–45% |
+| Bard **poison protection** | the bonus value |
+| Doom **Toxic** armor set | the set's bonus |
+| **Poison mastery** | always immune |
+| New players (New Player protection) and players in Covetous | always immune |
+
+Once poisoned, you can still shake it off:
+
+- **Poison mastery:** the poison is cured on its first tick (outside PvP).
 - **Orange petals** cure Lesser to Deadly poison on its next tick (not Lethal).
 - **Protection shields** absorb poison ticks before your HP (outside PvP).
-- [Druidic](../masteries/druidic.md) **Ophidian** and **Bug** forms: 15–45% chance to resist being poisoned.
-- Some monsters are **immune** to poison.
+
+### Pets and summons
+
+| Source | Chance |
+|---|---|
+| Unchained pet mastery **Poison Immunity** | 10 / 15 / 20% by tier |
+| **Creature Poison Resistance** on your Shepherd's Crook | 1% per point |
+| **Follower Poison Resistance** [PvM runes](../items/ankhs-runes.md) | 1% per point |
+| Your **Poison mastery** (once poisoned) | 10% + level / 30 per tick to shake it off |
+
+Some monsters are **immune** to poison.

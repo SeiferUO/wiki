@@ -81,7 +81,7 @@ Feast tables feed a whole group. Double-click one (within 3 tiles, or in your ba
 | Table | Effect |
 |---|---|
 | **Journeyman Feast** | Fills hunger to 100 and stops hunger loss |
-| **Warrior Feast Table** | +10% swing speed |
+| **Warrior Feast Table** | +10% melee damage and +10% swing speed (PvM only) |
 | **Arcane Feast Table** | +10% spell damage vs monsters |
 
 Cook them at **110+ Cooking** (Magical Food category):

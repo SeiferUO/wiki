@@ -25,8 +25,8 @@ Use **Sell Item** from the vendor's menu (or **List Item** in its window), then 
 |---|---|
 | Price | **1,000** to **10,000,000** gold |
 | Duration | **1 to 30 days** |
-| Listing fee | **50 gold per day**, paid from your bank when you list |
-| When it sells | You get **90%** of the price as a check in your bank |
+| Listing fee | **10% of the price + 50 gold per day**, paid from your bank when you list |
+| When it sells | You get the **full price** as a check in your bank |
 | Max listings | **20** at a time |
 
 - Your listings are under **My Listings**. Removing one sends the item back to your bank.

@@ -67,6 +67,7 @@ nav:
       - Taming: skills/taming.md
       - Tracking: skills/tracking.md
       - Scavenging: skills/scavenging.md
+      - Camping: skills/camping.md
       - Lore & Utility: skills/utility.md
   - Combat:
       - Combat Formulas: combat/formulas.md
@@ -100,6 +101,7 @@ nav:
       - Champion Spawns: bosses/champions.md
       - Mini Champions: bosses/mini-champions.md
       - Peerless Bosses: bosses/peerless.md
+      - Doom Dungeon: bosses/doom.md
       - The Harrower: bosses/harrower.md
   - Pets:
       - Unchained Pets: pets/unchained.md
@@ -124,6 +126,10 @@ nav:
       - Griphook: items/griphook.md
       - Traps: items/traps.md
       - Treasure Maps & Dungeon Chests: items/treasure.md
+      - Level 6 & 7 Treasure Maps: items/carlos-maps.md
+      - Resource Maps: items/resource-maps.md
+      - Storage Items: items/storage.md
+      - PvM Property Caps: items/property-caps.md
       - Boats: items/boats.md
   - Quests:
       - Daily & Weekly: quests/daily-weekly.md

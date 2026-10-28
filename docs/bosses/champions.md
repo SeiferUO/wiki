@@ -101,4 +101,4 @@ The Doom spawn is a **community** event:
 - You can't loot other players' corpses.
 - Its champion is the **Stygian Champion**, a much tougher Doom Exodus.
 - Players who dealt **10,000+ damage** to it and are nearby share a pool of **Void Skulls**, dealt out evenly. The pool is full size with 10+ players and shrinks with fewer (never below ⅓).
-- Dealing enough damage during the event also gives a bonus item *(item and damage set by staff)*.
+- Dealing **10,000+ damage** during the event also gives a bonus item.

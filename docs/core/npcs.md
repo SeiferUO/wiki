@@ -24,7 +24,6 @@ Custom NPCs you'll meet around the world. Most show a label like **[Bulk Market]
 - Each style costs **5 Platinum Coins** (from your backpack) and is **yours forever**: once bought, you can switch back to it any time for free.
 - Use **Try** to preview a style on your character before buying. Walking more than 8 tiles away cancels the preview.
 - Women see over 30 hairstyles, men about 30 hairstyles plus **beard styles**.
-- Owned styles are saved in your **quest logger**. If you don't have one, Jenny gives you one.
 
 ## Cacofonix, the Jukebox Bard
 

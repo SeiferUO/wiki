@@ -36,7 +36,7 @@ So you keep 85% of the XP early in the month, dropping to 68% from about 170,000
 
 Other modifiers:
 
-- **Danger Zones:** kill XP is reduced by 25% (treasure map guardians aren't affected).
+- **Danger Zones:** +25% kill XP (treasure map guardians aren't affected).
 - **February:** +25% when you're near party or guild members.
 
 ## The dungeon quest
