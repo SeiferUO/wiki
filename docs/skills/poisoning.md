@@ -66,7 +66,7 @@ The Magery **Poison** spell (3rd circle) poisons its target. Its strength depend
 | 200 or more | Greater, with a 10% chance of Deadly |
 
 - **Against players**, the spell loses 10 points for every tile past 3 tiles of distance. Players can resist it with Magic Resistance.
-- **Monsters** have a chance to resist the spell, depending on the monster. Poison-immune monsters always resist.
+- **Monsters** have a chance to resist the spell, depending on the monster. [Poison mastery](../masteries/index.md#poison-venom) lowers that chance by 0.5% per level (up to 15%). Poison-immune monsters always resist.
 - With the [Grimoire](../magic/grimoire.md), the spell gets stronger with its tier (see [below](#grimoire-poison-spell)).
 
 ### Poisoned food

@@ -6,8 +6,8 @@ Double-click him for his three services.
 
 ## Level 6: Ingeniously Drawn Maps
 
-1. **Drop undecoded treasure maps (level 1–5) on Carlos.** Each one gives you **World Knowledge** points equal to its level (a level 4 map = 4 points). Completed maps aren't accepted.
-2. At **100 World Knowledge**, click **Claim Ingeniously Drawn Map** to get a **level 6 treasure map**.
+1. **Drop uncompleted treasure maps (level 1–5) on Carlos**, or use **Provide some world knowledge** and target one in your backpack. Each one gives you **World Knowledge** points equal to its level (a level 4 map = 4 points). Completed maps aren't accepted.
+2. At **100 World Knowledge**, click **Claim Ingeniously Drawn Map** to get a **level 6 treasure map**. Points above 100 carry over.
 
 Level 6 maps work like other [treasure maps](treasure.md#treasure-maps): decode with Cartography 70+, dig with Lockpicking 105+. A level 6 chest always holds a **lore page** and a **Silver or Gold PvM rune**.
 
@@ -15,7 +15,7 @@ Level 6 maps work like other [treasure maps](treasure.md#treasure-maps): decode 
 
 If a decoded map's spot is hard to reach, click **Relocate a decoded map** and target it. You get a new map of the same level with a new location.
 
-- The map must be decoded and not completed.
+- The map must be in your backpack, decoded and not completed.
 - Once every **5 minutes**.
 
 ## Level 7: the Codex of Echoes
@@ -30,13 +30,13 @@ Buy the **Codex of Echoes** from Carlos for **100 Reward Points**. Each Codex te
 - mini bosses (2.5%), dungeon bosses and stronger, Mythic monsters,
 - daily quest rewards (rare and epic), pirate ships, the fisher guildmaster and scratch cards.
 
-Double-click a page and target your Codex to add it. Each page reveals one random part of the story.
+Each page is numbered **1 to 6** and reveals that line of the story. Double-click a page and target your Codex to add it. A page number that's already in your Codex can't be added again, so you need one of each.
 
 ### Digging up the chest
 
 When all 6 pages are revealed, the Codex shows the treasure's location.
 
-- Go within **5 tiles** of the spot, carry a **shovel**, and use **Dig** from the Codex's menu.
+- Go within **5 tiles** of the spot (in Felucca), carry a **shovel**, and use **Dig** from the Codex's menu.
 - You need **110 Lockpicking**.
 - Digging takes a few seconds. Then the **level 7 chest** rises with its guardians:
     - a **story boss** tied to the Codex's tale (a cult high priest, Minax's dragon, a clockwork overseer, a void daemon, a minotaur, a permafrost daemon, a plague wyvern, a succubus, a terathan, an inferni or a golem),
@@ -65,3 +65,5 @@ A level 7 chest holds normal [treasure loot](treasure.md#loot) at level 7, a **G
 | Crusader's Doublet | Infidel 2–5 | | Vampiric Sandals | Spell Leech 3–5 |
 | Mirror Cloak | Reflective 3–6 | | Warded Sandals | Warding Resonance 3–5 |
 | Explorer's Girdle | Archeologist 2–5 | | | |
+
+These pieces are **artifacts**: their property can't be changed with Enhancement Scrolls or the Enchanting Table.

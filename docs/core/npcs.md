@@ -80,6 +80,19 @@ Within 12 tiles you can also say **news** for a rumor, or **time** for the time 
 !!! warning
     Party members count as allies: they can attack you, loot you and see where you are on the map. Be careful who you group with.
 
+## The Duelist (Britain Farm)
+
+The **Duelist** waits at the **Britain Farm** to give you PvP practice. He fights like a real player.
+
+- He swaps between a **katana** and a **halberd**, and casts from a full spellbook: Explosion, Poison, Harm, Lightning and Energy Bolt combos, with Cure and Greater Heal for himself.
+- He punishes mistakes: he'll try to interrupt your heals and cures and keeps you poisoned.
+- Fighting him counts as **PvP combat**, so PvP rules apply (no PvM bonuses).
+- **He never really dies.** When you beat him, he freezes with a ghostly hue and recovers.
+- **To duel again,** double-click him (within 12 tiles) while he's resting. Your HP, mana and stamina are refilled and the fight starts right away.
+
+!!! warning
+    The Duelist is a **murderer** and isn't stopped by guards. Don't wander near him unless you want a fight.
+
 ## Raffle Coordinator
 
 The **Raffle Coordinator** announces the **Global Raffle**. Single-click to see the current prize, double-click (or say **[raffle**) to view entries and buy tickets.

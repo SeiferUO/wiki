@@ -32,8 +32,8 @@ Open them from the **Options** section of the [Compendium](compendium.md), or sa
 | **XP Messages** | You see character progression XP messages (masteries, pets and so on). |
 | **Skill Gain Messages** | You see your chance to gain skill. |
 | **Duel Queue Messages** | You see dueling queue announcements. |
-| **PvP Event Messages** | You see PvP event announcements. |
-| **Stealth Messages** | You see stealth overhead messages. |
+| **PvP Event Messages** | You see PvP event announcements (Deathmatch, Battle Royale, WOTA queue). When OFF, they're hidden. |
+| **Hide Stealth Messages** | The stealth step counter messages are hidden. |
 
 ## Other settings
 

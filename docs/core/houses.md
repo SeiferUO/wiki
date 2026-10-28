@@ -58,7 +58,7 @@ Everything left inside is taken out of its containers and split up:
 
 - **About 30%** goes to the owner's **bank** in a *Welcome Back!* chest.
 - **About 30%** is scattered on the **ground** where the house stood, free for anyone.
-- **About 30%** is handed to **Hard-tier or stronger monsters** roaming the area. Kill them to get the items back. If there are no such monsters nearby, these items land on the ground too.
+- **About 30%** is spread across **Hard-tier and stronger monsters all over the world** (same facet). Hunt them to find the items in their loot. If there are no such monsters, these items land on the ground too.
 - **Blessed items lose their blessing** and are split up like everything else.
 - Player vendors' gold and items go to each vendor owner's bank.
 
