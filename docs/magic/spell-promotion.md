@@ -2,15 +2,7 @@
 
 A rotation mini-game for pure mages. The game keeps asking you to cast a "promoted" spell. Casting the right one builds charges for bonus damage and gives you random extras.
 
-## Who can use it
-
-You need a **Wizard Mastery** item in your backpack and the pure mage skills:
-
-| Requirement | Value |
-|---|---|
-| Casting skill | Magery **or** Necromancy 100 |
-| Damage skill | Evaluating Intelligence 100 |
-| Support skills | Focus + Meditation + Spirit Speak + Mysticism, **150 combined** |
+## Where it works
 
 It only works in PvM, and only with damaging spells.
 
@@ -49,4 +41,4 @@ Each new promoted spell has a **35% chance** to carry a bonus. It's shown as a g
 | Lower Mana Cost | 20% | Refunds the **full** mana cost of the spell |
 | Weak Surge | 17% | A small surge |
 | Regeneration | 11% | Heals you for the spell's mana cost over 5 seconds |
-| Pixie | 4% | Summons a pixie helper (uses no control slots) |
+| Lesser Summon | 4% | Summons a lesser helper whose form depends on your activated mastery (uses no control slots) |

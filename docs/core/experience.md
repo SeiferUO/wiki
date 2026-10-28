@@ -36,7 +36,6 @@ your XP          = creature XP × min(your damage %, ceiling) × group multiplie
 | Bonus | Amount |
 |---|---|
 | **Danger Zone** | up to +50% |
-| **Community Dungeon Trial** region | +10% |
 | **Vial of XP** | +15% |
 | **Scholarship** (armor, clothing, runes) | +1% per point (max 50) |
 | **Server XP event** | set by staff |
@@ -52,7 +51,6 @@ your XP          = creature XP × min(your damage %, ceiling) × group multiplie
 
 - You're dead.
 - You have a pending **PvM captcha**.
-- You haven't moved for 4 minutes.
 - Another account from your IP is within 30 tiles (unless you're VIP).
 
 ## Where the XP goes
@@ -62,7 +60,7 @@ Every system below gets the **full** XP amount when you meet its requirement:
 | System | Requirement |
 |---|---|
 | [Masteries](../masteries/index.md) | one active mastery |
-| [Grimoire](../magic/grimoire.md) | Wizard mastery item and the pure mage skills |
+| [Grimoire](../magic/grimoire.md) | Magery or Necromancy 100, Evaluating Intelligence 100, and 150 combined Focus + Meditation + Spirit Speak + Mysticism |
 | [Spell songs](../bard/spellsongs.md) | Musicianship 50+ and a song selected |
 | Bard mastery | 200+ combined bard skills |
 | [Summons](../pets/summons.md) | Spirit Speak 50+, a spellbook and a Summon Mastery tome |

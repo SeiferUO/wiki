@@ -39,6 +39,7 @@ nav:
   - Home: index.md
   - Core Systems:
       - Player Character: core/player.md
+      - Food & Hunger: core/food.md
       - Weapons & Melee: core/weapons.md
       - Spellcasting: core/spellcasting.md
       - Creatures: core/creatures.md
@@ -54,10 +55,15 @@ nav:
       - Danger Zones: core/danger-zones.md
       - Leaderboards: core/leaderboards.md
       - Compendium: core/compendium.md
+      - Player Options: core/options.md
+      - Global Chat: core/global-chat.md
+      - Special NPCs: core/npcs.md
+      - Global Vendor House: core/global-vendor.md
       - Player Commands: core/commands.md
   - Skills:
       - Overview: skills/index.md
       - Stealth & Thievery: skills/stealth-thievery.md
+      - Poisoning & Poison: skills/poisoning.md
       - Taming: skills/taming.md
       - Tracking: skills/tracking.md
       - Scavenging: skills/scavenging.md
@@ -73,7 +79,6 @@ nav:
       - Turret Defense: combat/turret-defense.md
   - Bard:
       - Spellsongs: bard/spellsongs.md
-      - Battle Lute: bard/battle-lute.md
       - Bardic Codex: bard/bard-codex.md
   - Magic:
       - Necromancy Spells: magic/necromancy.md
@@ -81,6 +86,7 @@ nav:
       - Spell Promotion: magic/spell-promotion.md
       - Grimoire: magic/grimoire.md
       - Mage Staves: magic/mage-staves.md
+      - Eldritch Orb: magic/eldritch-orb.md
       - Summoner Rituals: magic/rituals.md
   - Masteries:
       - Overview: masteries/index.md
@@ -108,6 +114,7 @@ nav:
       - Ankhs & PvM Runes: items/ankhs-runes.md
       - Gear Properties: items/gear-properties.md
       - Enchanting & Crafting: items/enchanting-crafting.md
+      - Artifacts: items/artifacts.md
       - Rare Loot: items/rare-loot.md
       - Harvesting Gear: items/harvesting-gear.md
       - Wardrobe: items/wardrobe.md
@@ -127,3 +134,7 @@ nav:
       - Invasions: quests/invasions.md
       - Expeditions (Rifts): quests/expeditions.md
       - Pit Trials: quests/pit-trials.md
+
+# Hidden until finished
+exclude_docs: |
+  bard/battle-lute.md

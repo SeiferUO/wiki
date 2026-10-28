@@ -9,22 +9,13 @@ Mini champions are shorter spawns that run on their own timers. Each one has a f
 - Creatures that end up in a house, a duel pit or a safe zone are sent back to the altar.
 - Spawn creatures are champion minions: reduced [XP](../core/experience.md), no [rare-loot](../items/rare-loot.md) kill points, and they can't be tamed.
 
-When the boss dies, the mini champion goes on cooldown and then restarts by itself:
-
-| Type | Cooldown |
-|---|---|
-| Easy | 1–3 h |
-| Medium | 16–24 h |
-| Hard | 12–24 h |
-| Epic / Dungeon boss | 24–48 h |
-| Mythic | 45 min – 2 h |
-| Shrine | 24–48 h |
+When the boss dies, the mini champion goes on cooldown and then restarts by itself.
 
 ## Shrine Corruption
 
 The nine virtue shrines can be **corrupted**:
 
-- **Every monster killed anywhere** adds its HP to a server-wide corruption meter. When the meter fills *(set by staff)*, a random shrine that isn't on cooldown is corrupted.
+- **Every monster killed anywhere** adds its HP to a server-wide corruption meter. When the meter fills, a random shrine that isn't on cooldown is corrupted.
 - Only **one shrine** can be corrupted at a time. A shrine that tries to start while another is active waits 8 hours.
 - The server announces it, town criers yell it, and everyone on the same facet gets a window. The **public moongate** marks the shrine as **[ACTIVE]** so you can travel straight there.
 - Shrines have **8 levels** plus the boss.
@@ -43,7 +34,7 @@ The nine virtue shrines can be **corrupted**:
 
 ## Mini bosses
 
-Mini boss spawns have **5 levels** plus the boss. Where each one is placed is *set by staff*.
+Mini boss spawns have **5 levels** plus the boss.
 
 | Mini champion | Creatures | Boss |
 |---|---|---|
@@ -77,14 +68,14 @@ Mini boss spawns have **5 levels** plus the boss. Where each one is placed is *s
 | Troll Shaman | Ettins, trolls, ogres | a troll shaman |
 | Jungle Daemon | Boglings, shadowkin | a jungle daemon |
 | Velkara | Harpies | Velkara the Windmother |
+| Hill Griffon | Harpies, elementals | a hill griffon |
+| Minotaur Champion | Minotaurs | Minotaur Champion |
+| Doombringer | Bone creatures | a doombringer |
 
 The Mindflayer has a 25% chance to drop the **Bell of the Timeless**, a [Peerless](peerless.md#deceit-offerings) offering.
 
-## Mythic spawns
+## Mythic spawn
 
 | Mythic spawn | Levels | Creatures | Boss |
 |---|---|---|---|
 | Destard Mythic | 3 + boss | Legendary wyrms, dragons, drakes | one random **Mythic** dragon: Spectral Wyrm, Syrax, Royal Wyrm, Runic Wyrm, Silverwing, Balerion, Dracogorgon or Plague Wyvern |
-| Hill Griffon | 5 + boss | Harpies, elementals | a hill griffon |
-| Minotaur Champion | 5 + boss | Minotaurs | Minotaur Champion |
-| Doombringer | 5 + boss | Bone creatures | a doombringer |

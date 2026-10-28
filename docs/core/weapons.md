@@ -35,7 +35,6 @@ The **speed stat** depends on what you're holding and where you are:
 | Normal weapons | (Stamina + Dexterity) / 2 |
 | Mage staves, PvM | (Mana + Intelligence) / 2 |
 | Mage staves, PvP | Mana |
-| [Battle Lute](../bard/battle-lute.md) | its own bard stat |
 
 **Example:** 100 Stamina, 100 Dexterity and a weapon with speed 50: 15000 / (200 × 50) = **1.5 s**.
 
@@ -138,8 +137,6 @@ You roll the weapon's damage range.
 Tactics, Anatomy, Strength, crafting skills and weapon quality are applied next.
 See the full table in [Combat Formulas](../combat/formulas.md#melee-damage).
 
-Damage is then **halved if the target is a player**. Creature damage is always halved.
-
 ### 3. Armor
 
 See [Armor](#armor) below.
@@ -195,11 +192,6 @@ When a player hits a monster with a weapon, every bonus below is added together 
 | Monster vs player | max **35** per hit |
 | Pet vs player | max **15** per hit *(default)* |
 
-### Followers lower your weapon damage
-
-When you have more than **3 control slots** of pets out *(default)*, every extra slot lowers your weapon damage by **15%** *(default)*.
-This does not apply while you hold a Shepherd's Crook.
-
 ## Armor
 
 Your armor rating (AR) lowers incoming melee damage by a random amount between **0.45% and 0.75% per AR point**.
@@ -248,7 +240,7 @@ Against monsters, weapon properties can cast a free spell on hit. The number is 
 
 **Hit Magic Arrow, Hit Harm, Hit Fireball, Hit Lightning, Hit Curse, Hit Explosion.**
 
-**Area Damage** (Felucca only) has a % chance to hit every monster around the target.
+**Area Damage** has a % chance to hit every monster around the target.
 
 ## Chivalry in PvP
 

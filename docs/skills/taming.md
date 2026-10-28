@@ -24,11 +24,20 @@ For loyalty, bonding, pack instinct and pet combat, see [Creatures](../core/crea
 
 Each taming round also gives Animal Lore skill gains.
 
+### Gaining Taming by hunting
+
+You can also train Animal Taming just by **killing monsters with your pets**. Each monster kill you get credit for, while you have a pet out, is a chance to gain **0.1–0.2 Animal Taming**.
+
+- The chance is higher at **low skill** and against **stronger monsters**.
+- Very weak monsters give half the chance once you reach 70 Taming.
+- Every kill without a gain raises your next chance by **+2%**, until you gain.
+- Summons, golems and hirelings don't count as pets for this.
+- Your skill must be set to go up, and you need room under your skill cap.
+
 ## Controlling pets
 
 - You need **Animal Taming and Animal Lore both at or above** the pet's requirement to control it.
 - Pets with a requirement of 29.1 or lower always obey.
-- You can have **one independent pet** at a time.
 
 ## Animal Lore
 

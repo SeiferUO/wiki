@@ -13,7 +13,7 @@ Stats, skills, regeneration, death, insurance and the other rules that apply to 
 | Single stat cap (trained) | 100 |
 | Single stat max (with items and buffs) | 150 |
 | Hit points | Strength / 2 + 50 |
-| Weight limit | 40 + 3.5 × Strength + 0.5 × Camping (+50 stones at 100 Camping) |
+| Weight limit | 40 + 3.5 × Strength |
 
 Stat scrolls and stat balls can raise the total cap.
 
@@ -30,15 +30,17 @@ Each **Skill Orb** raises your total skill cap by **+1**, up to a maximum of **7
 
 Only these skills can have their **cap raised above 100** (for example with power scrolls):
 
-Alchemy, Animal Lore, Animal Taming, Arms Lore, Begging, Blacksmithing, Camping, Carpentry, Cooking, Detect Hidden,
-Discordance, Fishing, Fletching, Focus, Forensic Evaluation, Herding, Hiding, Inscription, Lockpicking, Lumberjacking,
-Mining, Musicianship, Peacemaking, Poisoning, Provocation, Remove Trap, Spirit Speak, Stealth, Tailoring,
-Taste Identification, Tinkering, Tracking, Veterinary.
+Alchemy, Anatomy, Animal Lore, Animal Taming, Archery, Arms Lore, Begging, Blacksmithing, Camping, Carpentry,
+Cooking, Detect Hidden, Discordance, Evaluating Intelligence, Fencing, Fishing, Fletching, Focus,
+Forensic Evaluation, Healing, Herding, Hiding, Inscription, Lockpicking, Lumberjacking, Macing, Magery,
+Magic Resistance, Meditation, Mining, Musicianship, Parrying, Peacemaking, Poisoning, Provocation, Remove Trap,
+Spirit Speak, Stealth, Swordsmanship, Tactics, Tailoring, Taste Identification, Tinkering, Tracking, Veterinary,
+Wrestling.
 
 All other skills are reset to a cap of 100 when you log in. Items and buffs can still raise their **effective** value above 100.
 
 !!! warning "Skills above 100 in PvP"
-    Many formulas count skills as **100 max in PvP**: Tactics, Meditation, Inscription and the bard skills used by the Battle Lute.
+    Many formulas count skills as **100 max in PvP**: Tactics, Meditation, Inscription and the bard skills.
     Skill points above 100 are mainly for PvM.
 
 ## Regeneration
@@ -89,7 +91,7 @@ Mana regen starts at **7 seconds per point** and each source below makes it fast
 
 !!! tip "Armor and mana"
     Armor that isn't meditable slows mana regen. **Taste Identification cancels the penalty**, fully at 120.
-    On Felucca, a shield only counts against you if your Parry is below 80.
+    A shield only counts against you if your Parry is below 80.
 
 ## Taking damage
 
@@ -116,7 +118,7 @@ When you die:
 
 ### Resurrection
 
-In PvM you come back with **35% HP, 25% mana and full stamina**. If you were mounted, you're put back on your mount automatically (where mounts are allowed).
+In PvM you come back with **35% HP, 25% mana and full stamina**.
 
 ### Places where you keep your gear
 
@@ -135,7 +137,6 @@ weapon, shield, spellbook, helm, chest, arms, gloves, legs, gorget, ring, bracel
 - Cost depends on the item: base type, material, quality, artifact status and each PvM property. Range **10–125,000 gold**. Some regions change the cost.
 - **Utility items** (Summoner Lantern, Eldritch Orb, quivers and resource collectors) cost a flat 12,500 gold or 5 points.
 - If you can't afford to reinsure, the item is still saved this time, but it **will drop on your next death**.
-- The player who killed you gets **half the cost** (max 50,000 gold or 2,500 points).
 - If you die again **within 2 minutes of resurrecting**, your items are protected for free.
 - Insurance doesn't work in PvP combat, if a pet killed you, or if you killed yourself.
 
@@ -169,7 +170,6 @@ Murder counts only decay while you're logged in.
 You only earn XP (masteries, pets, summons, quivers, bard, talismans and monthly challenges) when:
 
 - you are alive,
-- you have moved in the last 4 minutes,
 - you don't have a pending anti-bot check,
 - no other account from your IP is within 30 tiles (VIP accounts are exempt).
 
@@ -177,7 +177,3 @@ You only earn XP (masteries, pets, summons, quivers, bard, talismans and monthly
 
 Druids in a warrior, archer or mage stance move at **mounted speed** on foot.
 
-## Young players
-
-Young characters can't be attacked by monsters in protected regions.
-When they die, they're teleported to safety and keep their items in their backpack.

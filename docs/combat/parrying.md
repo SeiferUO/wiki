@@ -13,7 +13,7 @@ chance = Parry × 0.2%  +  shield AR × 0.25% (max 20%)
 | Bonus | Amount |
 |---|---|
 | **Failed-parry streak** | +5% after each failed parry, up to +15%. Needs 50+ Parry. Any successful parry resets it |
-| **Iron Guard** ([Swordsmanship codex](../codex/weapon-codex.md#swordsmanship)) | +2% per tier, **PvP only** |
+| **Iron Guard** ([Swordsmanship codex](../codex/weapon-codex.md#swordsmanship)) | +2% per tier, **PvM only** |
 | **Bulwark** mastery | more parry chance by mastery level *(set by staff)* |
 
 - **Max chance: 65%.** Min chance: 1%.

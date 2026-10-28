@@ -31,7 +31,6 @@ You can only open a rift from a **town, safe zone or house**, and not while you'
 - Monsters keep respawning while players are inside.
 - **Guardian gauge:** every monster you kill fills the gauge by its HP (100–1,000 per kill). At **15,000** the **guardian** spawns.
 - No Recall, Gate Travel, Sacred Journey, Mark, Wall of Stone or Energy Field. No houses.
-- Logging out inside takes **10 minutes**.
 - An exit portal inside takes you back.
 
 !!! danger "Lawless rifts"
@@ -45,8 +44,6 @@ You can only open a rift from a **town, safe zone or house**, and not while you'
 | **Medium** | Blood Lurker, Molten Daemon, Eldritch Daemon, Rai Jin, Forest Spirit, Gargantua, Ancient Wyvern, Anima, The Undying, Shadowlord, the Bog Thing, the Forest Elder |
 | **Hard** | Crimson King, Rai Jin, Malhazard, Malcanthet, Ulric the Damned, Semidar, Medusa |
 | **Elite** | Medusa, Minax (Destard), the Frozen Ancestor (Glacia), Drakus, the Gorgon |
-
-The portal shows the guardian's name and difficulty. Some portals show a different difficulty than the tier they come from.
 
 ## Expedition Tickets
 

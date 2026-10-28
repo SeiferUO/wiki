@@ -18,7 +18,6 @@ The **Template Manager** saves full skill-and-stat setups so you can switch betw
 
 - **15 seconds** between switches.
 - Not in a **dueling arena**, not during a **MOBA match**, and not while polymorphed.
-- The template's stats can't total more than **230** (outside Sphere areas).
 - Every skill must be within your current skill cap.
 - Loading a template **dismisses your summons** and resets bard tempo.
 
@@ -39,6 +38,6 @@ A special **Combat Template** slot can switch you automatically when PvP starts.
 The dueling arena uses its own template:
 
 - exactly **7 skills** at 100,
-- stats totaling **225** (250 for Sphere), each between 10 and 125.
+- stats totaling **225**, each between 10 and 125.
 
 It's applied when the duel starts, and your previous template is restored afterward.

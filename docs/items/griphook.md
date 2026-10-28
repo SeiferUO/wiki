@@ -5,8 +5,6 @@
 ## Hanging around Griphook
 
 - **Every hour**, every player within 50 tiles gets **+1 AP**. If 5 or more players are there, one random player gets **+5 AP** more.
-- Hidden players within 25 tiles are revealed every minute.
-- Every hour he also stables pets near him and pets of players who have been offline for 48+ hours.
 
 ## Selling items for AP
 

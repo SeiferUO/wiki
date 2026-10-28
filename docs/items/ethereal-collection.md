@@ -4,11 +4,10 @@ The **Ethereal Collection** is an ethereal statuette that can take the look of a
 
 ## Opening it
 
-Single-click the Ethereal Collection in your backpack and choose **Overview**. The menu shows your **Platinum Coins**, how many styles you've unlocked, and every style with its price.
+Single-click the Ethereal Collection in your backpack and choose **Overview**. The menu shows your **Platinum Coins**, how many styles you've unlocked, and every style.
 
 - **All / Unlocked / Locked** filter the list.
-- Styles are listed from cheapest to most expensive.
-- Click a style to see it in the **Style Details** panel: its name, price, status and whether it can be dyed.
+- Click a style to see it in the **Style Details** panel: its name, status and whether it can be dyed.
 
 ## Unlocking styles
 
@@ -33,24 +32,27 @@ Select an unlocked style and press **Select Style**. You must be dismounted. The
 
 ## Styles
 
-The collection has **68 styles**. Prices are in Platinum Coins. **\*** = can't be dyed.
+The collection has **68 styles**. Prices are shown in game. **\*** = can't be dyed.
 
-| Price | Styles |
-|---|---|
-| Free | Horse |
-| 10 | Beetle, Kirin, Llama, Ostard, Ridgeback, Swamp Dragon, Zostrich |
-| 15 | Cu Sidhe, Hiryu, Skeletal Steed |
-| 20 | Ancient Hell Hound, Boura, Charger Of The Fallen, Reptalon, Rideable Polar Bear, Sphynx, Swamp Drake |
-| 30 | Gamam, Grizzly, Lava Lizard, Lion, Moose*, Revenant Lion, Salamander, Spiderling, Tiger |
-| 35 | Eowmu, Lobster, Oxen, Royal Drake, Saberdrake, Scarab, War Boar*, Windrunner |
-| 40 | Bull, Capybara, Ram, Sabertooth, Stygian Drake, Tarantula |
-| 50 | Arctic Kirin*, Banner Horse*, Manticore 2*, Manticore*, War Wolf* |
-| 75 | Gronk*, Grubber*, Swallow* |
-| 100 | Cold Steed*, Druidic Horse*, Molten Steed*, Panda*, Pegas |
-| 200 | Frostwing*, Grey Hippogriff, Red Dragon |
-| 250 | Cerberus, Gryffon* |
-| 500 | Dark Gryffon*, Lasher*, Palomino*, Raptor*, Savage Turkey, Snow Gryffon* |
-| 1,000 | Chocobo*, Elder Swamp Dragon*, Vortex |
+| | | | |
+|---|---|---|---|
+| Ancient Hell Hound | Gamam | Moose* | Savage Turkey |
+| Arctic Kirin* | Grey Hippogriff | Ostard | Scarab |
+| Banner Horse* | Grizzly | Oxen | Skeletal Steed |
+| Beetle | Gronk* | Palomino* | Snow Gryffon* |
+| Boura | Grubber* | Panda* | Sphynx |
+| Bull | Gryffon* | Pegas | Spiderling |
+| Capybara | Hiryu | Ram | Stygian Drake |
+| Cerberus | Horse | Raptor* | Swallow* |
+| Charger Of The Fallen | Kirin | Red Dragon | Swamp Dragon |
+| Chocobo* | Lasher* | Reptalon | Swamp Drake |
+| Cold Steed* | Lava Lizard | Revenant Lion | Tarantula |
+| Cu Sidhe | Lion | Rideable Polar Bear | Tiger |
+| Dark Gryffon* | Llama | Ridgeback | Vortex |
+| Druidic Horse* | Lobster | Royal Drake | War Boar* |
+| Elder Swamp Dragon* | Manticore 2* | Saberdrake | War Wolf* |
+| Eowmu | Manticore* | Sabertooth | Windrunner |
+| Frostwing* | Molten Steed* | Salamander | Zostrich |
 
 ## Related
 

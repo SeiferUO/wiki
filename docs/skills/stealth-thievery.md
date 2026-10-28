@@ -55,7 +55,7 @@ Passive detection doesn't work in towns, safe zones, duel pits, jail, Covetous o
 - Only **Thieves' guild members** can steal from players, and not while they have murder counts.
 - You must be empty-handed and not polymorphed.
 - Items over **10 stones**, blessed items and **insured items** can't be stolen.
-- You can't steal from players in safe zones, duel pits, Thornwall or the new player dungeon.
+- You can't steal from players in safe zones, duel pits or the new player dungeon.
 - Difficulty is the item's weight × 10. For stacks, you take up to (Stealing / 10) / weight items at once.
 - Stealable artifacts need 100 Stealing.
 
@@ -64,20 +64,14 @@ Everyone within 8 tiles sees the attempt. Stealing from an innocent outside the 
 
 ## Snooping
 
-- On Felucca you can snoop anyone, as long as you're allowed to act harmfully toward them.
+- You can snoop anyone, as long as you're allowed to act harmfully toward them.
 - In guarded towns you can't snoop blue human NPCs.
 - If Snooping < a random 0–100, the target is told you're peeking.
 - Each snoop costs 4 Karma.
 
 ## Poisoning
 
-- On Felucca you can only poison **one-handed slashing or piercing weapons**, food, darts and shuriken.
-- Poison charges on a weapon: **18 − 2 × poison level** (Lesser 18, Regular 16, Greater 14, Deadly 12, Lethal 10).
-- On failure below 80 skill, there's a 5% chance to poison yourself.
-- Skill delay: 10 s. Not usable in duel pits.
-- Each success costs 20 Karma.
-
-Hitting a monster with a poisoned weapon also gives Poisoning skill gains.
+See [Poisoning & Poison](poisoning.md).
 
 ## Remove Trap
 

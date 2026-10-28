@@ -23,7 +23,7 @@ Weapons, armor, clothing, jewelry, spellbooks, mage staves and Shepherd's Crooks
 | Weapon Damage | More weapon damage | 15 | 75 |
 | Boss Damage | More damage to bosses | 20 | 50 |
 | Critical Hit Chance | Chance for a critical hit | 10 | 30 |
-| Area Damage | Chance to hit every monster around the target (Felucca only) | 25 | — |
+| Area Damage | Chance to hit every monster around the target | 25 | — |
 | Life Leech | Chance to heal for part of the damage dealt | 10 | 30 |
 | Mastery Damage | More mastery ability damage | 20 | 50 |
 | Mage Killer | More damage to spellcasting monsters | 15 | 50 |
@@ -116,7 +116,3 @@ For the crook's Herding bonus, see [Shepherd's Crook & Herding](../pets/herding.
 | Casting Speed / Recovery | as on spellbooks | 10 each | 50 / 25 |
 | Spell Damage | More spell damage | 10 | 50 |
 | Hunter's Luck | Better loot | 5 | 50 |
-
-## Battle Lute
-
-Lutes have their own bard properties. See [Battle Lute](../bard/battle-lute.md).

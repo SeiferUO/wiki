@@ -3,12 +3,11 @@
 How instruments work and how Peacemaking, Provocation and Discordance are calculated.
 
 !!! note
-    The [Battle Lute](../bard/battle-lute.md) counts as an instrument while you wield it.
     Bard masteries and Spellsongs are on the [Spellsongs](../bard/spellsongs.md) page.
 
 ## Playing an instrument
 
-You use the instrument you last played. A wielded Battle Lute is always used first.
+You use the instrument you last played.
 
 ### Musicianship effectiveness
 

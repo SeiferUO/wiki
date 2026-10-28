@@ -19,12 +19,33 @@ You don't socket ankhs into gear. They go into **ankh slots on your character**.
 
 | Tier | Where it comes from |
 |---|---|
-| Bronze | monsters, chests, the rune vendor |
-| Silver | monsters, chests, bosses, the rune vendor |
-| Gold | chests, bosses, the rune vendor |
-| **Platinum** | bosses only |
+| Bronze | monsters, chests, quests, paragon chests |
+| Silver | monsters, chests, quests, bosses |
+| Gold | chests, bosses, Peerless, Doom, level 6–7 treasure maps |
+| **Platinum** | Champion and Harrower Void Skulls only |
 
 Drops are weighted toward lower tiers (Bronze 8 : Silver 5 : Gold 3 : Platinum 1).
+
+### Where runes drop
+
+| Source | Tiers | Chance |
+|---|---|---|
+| Hard-tier or stronger monsters | Bronze | 0.25% |
+| Legendary or stronger monsters | Bronze–Silver | 1% |
+| Mythic monsters | Bronze–Silver | 5% |
+| Treasure chests, level 1–3 | Bronze | 5% |
+| Treasure chests, level 4–5 | Bronze–Silver | 10% |
+| Treasure chests, level 6 | Silver–Gold | always |
+| Treasure chests, level 7 | Gold | always |
+| Lesser / Regular paragon chests | Bronze–Silver | 5% / 8% |
+| Greater / Legendary paragon chests | Bronze–Gold | 10% / 15% |
+| Daily quest (to your bank) | Bronze–Silver | 5% |
+| Weekly task (to your bank) | Bronze–Silver | 7.5% |
+| Global quest (to your bank) | Bronze–Gold | 5% |
+| [Pit Trials](../quests/pit-trials.md) reward pool | Bronze–Gold | 5% per 10 waves cleared (25% at wave 50) |
+| [Peerless bosses](../bosses/peerless.md) | Silver–Gold | always |
+| [Sealed Gate of the Stygian Keep](../quests/global-events.md#the-sealed-gate-of-the-stygian-keep-doom) bosses | Bronze–Silver, plus one Gold per run | 10% per boss; Gold: 20% at the first boss, +20% per boss |
+| Boss [Void Skulls](../bosses/index.md#void-skulls) | by boss type | see the skull table |
 
 ### Stacking limit
 
@@ -99,24 +120,6 @@ That total is then still limited by the item property caps on [Weapons](../core/
 
 All values are percentages.
 
-### Varek the Rune Merchant
-
-Varek sells Bronze, Silver and Gold ankhs and Rune XP packs.
-
-- Your shop **balance** is set once, when you first register: **2 × your PvM score**. You need a PvM score of 300 to register.
-- Prices and lifetime purchase limits:
-
-| Item | Cost | Limit |
-|---|---|---|
-| Bronze ankh | 300 | 30 |
-| Silver ankh | 1,500 | 25 |
-| Gold ankh | 6,000 | 15 |
-| 10,000 Rune XP | 150 | |
-| 50,000 Rune XP | 600 | |
-| 250,000 Rune XP | 2,500 | |
-| 1,000,000 Rune XP | 8,000 | |
-
-Platinum ankhs can't be bought.
 
 ## Ankh Necklaces
 

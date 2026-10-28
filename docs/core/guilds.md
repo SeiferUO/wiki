@@ -19,8 +19,7 @@
 
 | Currency | Earned from | Spent on |
 |---|---|---|
-| **Prestige** | Boss kills, guild quests, VvV battles, dungeon idols | Permanent guild buffs |
-| **Prestige Store Points** | Boss kills and guild quests (same amount as the Prestige they give) | The Prestige Store |
+| **Prestige** | Boss kills, guild quests, Militia battles, dungeon idols | Permanent guild buffs |
 | **Treasury gold** | Members' donations: **[GiveGold** (or **[GS**) | Permanent guild buffs |
 | **Treasury resources** | Members' donations: **[GiveResources** (or **[GR**) | Permanent guild buffs |
 | **Dungeon points** | Kills in each dungeon (one total per dungeon) | Summoning that dungeon's boss |
@@ -33,7 +32,7 @@ When a guild member is the **top damager** on a monster (pets count for their ow
 |---|---|
 | Dungeon boss or stronger | 3 |
 | Mini-boss, hard expedition | 2 |
-| Mythic creatures, community dungeon monsters | 1 |
+| Mythic creatures | 1 |
 | Pit Trial | 0 |
 
 ### Resource values
@@ -51,7 +50,7 @@ The treasury window shows the top contributors of points, gold and resources.
 
 ## Guild quests
 
-Every week the guild gets **9 quests**: 3 hunting, 3 gathering and 3 crafting. Completing one gives the guild Prestige (and store points):
+Every week the guild gets **9 quests**: 3 hunting, 3 gathering and 3 crafting. Completing one gives the guild Prestige:
 
 | Quest | Example | Prestige |
 |---|---|---|
@@ -94,22 +93,7 @@ Kills by guild members inside a dungeon add **dungeon points** for that dungeon:
 
 At **100,000 points**, a Warlord or leader standing in the dungeon's **boss room** can summon its boss from the guild window. Only one can be up at a time, and everyone is told who summoned it.
 
-## Prestige Store
-
-Spend **Prestige Store Points**:
-
-| Item | Points |
-|---|---|
-| Enchanting Table | 1,500 |
-| Reward Robe / Cloak / Dress (blessed, +3% physical defense) | 1,000 each |
-| Ethereal Horse | 750 |
-| Pet Spell Enhancer Deed (pet spells keep the pet's hue) | 500 |
-| Armament Dyes Tome | 250 |
-| Dying Kit (infinite charges) | 100 |
-| Lich Painting | 100 |
-| Runebook | 50 |
-
 ## Other
 
 - **Region Domination:** guilds fight for regions, see [Region Domination](../combat/domination.md). Say **[GuildRegions** to see what your guild holds.
-- **Guild PvP leaderboard:** VvV kills are ranked per guild.
+- **Guild PvP leaderboard:** Militia kills are ranked per guild.

@@ -9,7 +9,7 @@
     ```
 
 - You can't meditate in armor that isn't meditable, or below 10% HP.
-- Allowed in hand: spellbook, runebook, Eldritch Orb, Summoner Lantern, Shepherd's Crook, mage staves, torches, lanterns and candles.
+- Allowed in hand: spellbook, runebook, [Eldritch Orb](../magic/eldritch-orb.md), Summoner Lantern, Shepherd's Crook, mage staves, torches, lanterns and candles.
   Shields are off by default *(staff setting)*.
 - Active meditation makes mana regen **35% faster**. Full mana regen rules are on the [Player](../core/player.md#mana) page.
 

@@ -8,9 +8,9 @@
 |---|---|---|---|---|
 | **Quiver** | Cloak | Arrows and bolts | 25–75% (by wood) | Bowcraft 110 (50 boards), or 2,500 gold from bowyers (plain wood) |
 | **Scavenger Satchel** | Waist | Loot: anything except gold, weapons, armor, containers and blessed/insured items | 20–40% (by leather) | Tailoring 110 (100 leather) |
-| **Resource Satchel** | Waist | Ore, gems, fish, boards, leather, cloth and other resources | 25% | — |
-| **Gold Satchel** | Waist | Gold | 25% | — |
-| **Mage Satchel** | Waist | Reagents, spell scrolls, blank scrolls | 25% | — |
+| **Resource Satchel** | Waist | Ore, gems, fish, boards, leather, cloth and other resources | 25% | the **[store** |
+| **Gold Satchel** | Waist | Gold | 25% | the **[store** |
+| **Mage Satchel** | Waist | Reagents, spell scrolls, blank scrolls | 25% | the **[store** |
 
 ### Crafted reduction
 
@@ -43,10 +43,3 @@
 !!! warning "On death"
     If the satchel itself is blessed or insured, you keep the satchel, but **everything inside drops to your corpse**.
 
-## Moving Crate
-
-A **moving crate** is a weightless box for moving house contents:
-
-- It holds up to **25 items** and **weighs nothing**, however much is inside.
-- You can only put items in or take them out **in your bank** or **in a house you own**.
-- Once it has been filled, it **dissolves** when you take the last item out.

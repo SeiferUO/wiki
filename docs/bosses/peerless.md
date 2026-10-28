@@ -28,7 +28,6 @@ These drop in Deceit and go to the altar in **Blackthorn's Castle**:
 
 - **Enrage:** every 15% HP lost (at 85, 70, 55, 40 and 25%), the boss gets **+10%** strength, dexterity, intelligence and damage, up to **+50%**.
 - **Guardians:** at **80%, 60% and 40%** HP it summons 3–5 guardians from its theme. **While any guardian lives, the boss takes 25% less damage.** Guardians vanish when the boss dies.
-- It picks a **new random target** every 3–7 seconds.
 
 ## Rewards
 

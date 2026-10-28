@@ -23,7 +23,69 @@ Related pages: [Summoner Rituals](../magic/rituals.md) for the Summoner Lantern,
 - A summon lasts **10 minutes**. Each corpse your Summoner Lantern drains adds **30 seconds**. Summon Duration runes and some abilities add more. Hover over the summon to see its time left.
 - Summons are hard to dispel (difficulty 155). Spirit Speak makes them even harder.
 - In PvP, summon stats are scaled down and their skills count as 100 max.
-- Your summons' stats and damage come from your **Spirit Speak**, your active **mastery** and your **arcane scrolls** for that spell.
+- How strong a summon is depends on you when you cast it: see [How summons scale](#how-summons-scale).
+
+## How summons scale
+
+A summon's strength is set **when you cast it**, from your skills and bonuses at that moment.
+
+### Stats and damage
+
+Every bonus below adds up into one multiplier. It raises the summon's **Str, Dex, Int, HP and damage** all together.
+
+| Source | Bonus | Max |
+|---|---|---|
+| **Spirit Speak** | +1% per 4.5 skill | +25% (at 112.5) |
+| **Arcane scrolls** for that spell | +0.25% per point | +25% (at 100 points) |
+| **Summon level** (Summon Mastery tome) | +2.5% per level | +25% (level 10) |
+| **Mastery**, while the matching mastery is activated | grows with mastery level | about +30% |
+| **Spellbook summon property** for that summon (e.g. *Fire Elemental*) | +1% per point | +50% |
+
+A summon with everything maxed has about **2.5× its base stats and damage**.
+
+Each summon uses its own mastery:
+
+| Summon | Mastery |
+|---|---|
+| Fire Elemental | Fira |
+| Water Elemental | Holy |
+| Earth Elemental | Earth |
+| Air Elemental | Aero |
+| Daemon | Doom |
+| Energy Vortex | Energy |
+| Blade Spirits | Berserk |
+| Animated Dead | Death |
+| Summoned Creature | your activated mastery (it also sets its form) |
+
+### Skills
+
+- **Magic Resist** = your Spirit Speak.
+- **Wrestling, Tactics and Anatomy** = your Evaluating Intelligence.
+- Summons that cast copy your **Magery, Eval Int and Meditation**.
+- **Unlimited Knowledge** (ability 2) adds +8 to +15 to all of these.
+
+### Armor
+
+- Every **10 arcane scroll points** add +1 armor and +1% poison resistance.
+- **Bulwark Stance** (ability 5) adds +7 to +15 armor, Magic Resist and poison resistance.
+
+### Spiritbond
+
+While fighting, a summon **grows stronger** every 15 seconds:
+
+- +1% damage per tick (+2% against champion spawn creatures), and a little more if you're within 6 tiles.
+- Up to **+30%** damage. Hover over the summon to see its Spiritbond.
+- It slowly fades when the summon is out of combat.
+- It doesn't grow against monsters with more than 75,000 HP or monsters that can't move.
+
+### Control slots
+
+| Summon | Slots |
+|---|---|
+| Blade Spirits | 1 (0 with **Efficiency**) |
+| Fire, Water, Earth, Air Elemental, Energy Vortex, Summoned Creature | 2 |
+| Daemon | 4 |
+| Animated Dead | depends on the corpse |
 
 ## Leveling a summon
 
@@ -189,4 +251,3 @@ Each row shows the unlock effect, then the upgrades for levels 1/2/3.
 - Each summon you have out can **surge** (Summon Surge on spellbooks and runes). A surge heals 25% over 5 ticks, adds +1 to its damage scalar (max 30) and gives Quicksilver or 5 empowered spells.
 - **Summon Heal** (spellbook, runes) gives your summons a chance to heal for 35% of the damage they deal.
 - Summons more than 12 tiles from you deal less damage: −5% per extra tile, max −90%.
-- In PvM, monsters deal extra damage to summons (the amount is set by staff).

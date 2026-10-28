@@ -20,7 +20,9 @@ Type commands with a leading **[** (for example `[compendium`). Say **[commands*
 
 | Command | What it does |
 |---|---|
-| `[C <message>` | General chat |
+| `[C <message>` | General chat (see [Global Chat](global-chat.md)) |
+| `[P <message>` | PvP chat |
+| `[T <message>` | Trading chat |
 | `[G <message>` | Guild chat |
 | `[Chat` / `[ChatToggle` | Chat history / turn chat on or off |
 | `[discord` | Discord link |

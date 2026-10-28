@@ -2,13 +2,10 @@
 
 Server-wide community goals. The whole shard works together on one objective, and everyone who helped is rewarded by how much they contributed.
 
-!!! note
-    Numbers marked *default* come from the Global Quest controller and can be changed by staff.
-
 ## How it works
 
 - A new global quest starts automatically. Talk to the **Global Quest NPC** to see the current goal, its progress and your contribution.
-- Each quest lasts **3 hours** *(default)*.
+- Each quest lasts **3 hours**.
 - When a quest ends, the next one starts once the full 3-hour window has passed.
 - Every **daily quest** anyone completes takes **10 minutes** off the wait for the next global quest.
 

@@ -60,7 +60,7 @@ The bleed-and-combo codex.
 | Executioner's Edge | Passive | +2% critical damage per tier |
 | Shatter Point | Passive | Bonus damage against monsters whose armor is broken |
 | Woodcutter's Might | Passive | +tier % damage per 10 Lumberjacking (axes) |
-| Iron Guard | Passive | +2% shield parry chance per tier, PvP only |
+| Iron Guard | Passive | +2% shield parry chance per tier, PvM only |
 | Counterattack | Passive | tier × 3% chance after a parry for a 50% damage counter-strike |
 | Eldritch Edge | Passive | tier × 3% chance to absorb a spell reflection charge |
 | Moving Dodge | Passive | +tier % dodge while moving |

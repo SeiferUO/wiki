@@ -5,14 +5,62 @@
 - **One house per account.**
 - Use a **House Placement Tool** and pick a design. The price is listed in the tool and taken from your **bank**.
 - You can't build in towns, guarded or no-build areas, or anywhere something blocks the footprint.
-- **Re-placing** (changing design) charges or refunds the price difference.
 - Houses must be at least 10 tiles from any [Garden Plot](garden-plot.md).
+
+## Town Houses
+
+**Town Houses** are custom-designed houses already built around the world, some of them inside guarded towns.
+
+- Use the house's **sign** to see its storage (secures and lockdowns) and its price.
+- They're bought with a **mix of gold and Platinum Coins**. The gold comes from your bank, the platinum from your bank or backpack.
+- A Town House counts as your **one house per account**.
+- They work like any other house: same decay, storage, co-owners, friends and upgrades.
+- Demolishing one refunds **80%** of both the gold and the platinum you paid.
 
 ## Decay
 
-- A house lasts **30 days** without a refresh. It goes **Like New → Slightly → Somewhat → Fairly → Greatly worn → In Danger of Collapsing**, then collapses.
+A house lasts **30 days** without a refresh, then collapses.
+
 - **Refreshing:** the house refreshes whenever its **owner, a co-owner or a friend** walks in or uses a door.
-- When a house collapses, loot goblins collect the decayed items.
+- The house sign shows how worn it is:
+
+| Condition | Days since last refresh |
+|---|---|
+| Like New | less than 4 hours |
+| Slightly worn | up to 7.5 days |
+| Somewhat worn | 7.5–15 days |
+| Fairly worn | 15–22.5 days |
+| Greatly worn | 22.5–28.5 days |
+| **In danger of collapsing** | the last **36 hours** |
+
+### In danger of collapsing (IDOC)
+
+During the last 36 hours, the sign shows a more precise stage that changes **every 3 hours**, so you can tell how close the collapse is:
+
+| Hours left | Sign says |
+|---|---|
+| 36–33 | In danger of collapsing (gold) |
+| 33–30 | Critically worn (gold) |
+| 30–27 | Severely weakened (gold) |
+| 27–24 | Heavily deteriorated (orange) |
+| 24–21 | Extremely unstable (orange) |
+| 21–18 | Dangerously weak (orange) |
+| 18–15 | Nearly collapsed (red) |
+| 15–12 | Crumbling rapidly (red) |
+| 12–9 | Falling apart (red) |
+| 9–6 | Imminent collapse (dark red) |
+| 6–3 | About to fall (dark red) |
+| 3–0 | Collapsing now (dark red) |
+
+### When a house collapses
+
+Everything left inside is taken out of its containers and split up:
+
+- **About 30%** goes to the owner's **bank** in a *Welcome Back!* chest.
+- **About 30%** is scattered on the **ground** where the house stood, free for anyone.
+- **About 30%** is handed to **Hard-tier or stronger monsters** roaming the area. Kill them to get the items back. If there are no such monsters nearby, these items land on the ground too.
+- **Blessed items lose their blessing** and are split up like everything else.
+- Player vendors' gold and items go to each vendor owner's bank.
 
 ## Storage
 
@@ -37,6 +85,5 @@ Up to **15 co-owners**.
 
 When you demolish your house, you get back **80% of its value** (including storage upgrades) as a bank check in your bank box.
 
-- Platinum-bought town houses also refund 80% of their platinum price.
+- Town Houses also refund 80% of their platinum price.
 - **Everything left inside stays on the ground**, free for anyone to take, and the land opens for a new house.
-- Staff demolitions give no refund.

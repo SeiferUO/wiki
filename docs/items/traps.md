@@ -16,7 +16,7 @@ Double-click a placeable trap in your backpack. Rules:
 - **Cooldown:** 15 s, −0.25 s per point of Tinkering and Remove Trap above 100 (min 5 s).
 - A trap lasts **5 minutes**, then disappears.
 
-The trap is invisible. It goes off when a valid target **steps on it**. You never trigger your own harmful traps, and neither do your pets or your allies' pets.
+The trap is invisible. It goes off when a valid target **steps on it**. You never trigger your own traps, and neither do your pets or your allies' pets.
 
 ### Range
 
@@ -36,10 +36,6 @@ You can turn off **PvP** for your traps in your options, so they never hit playe
 | **Corpse** | Damage and **bleeding** |
 | **Mortal Strike** | Mortal wound for 5 s (no healing) |
 | **Bear Trap** | Freezes for 1 s, then slows to walking speed for 2 s |
-| **Healing** | Heals whoever steps on it |
-| **Curative** | Heals over 30 seconds (15 ticks) |
-| **Hiding** | Hides whoever steps on it |
-| **Surging** | Restores mana |
 
 ### Damage to monsters
 
@@ -71,13 +67,6 @@ damage = 10 + 2 per point of Tinkering above 100 + 2 per point of Remove Trap ab
 
 The damage is **split** between every player in range.
 
-### Healing traps
-
-```
-heal = 20–35 + (Tinkering + Healing) / 8      (+15 + 3 per Artisan level)
-```
-
-The amount is split between everyone in range.
 
 ## Dungeon traps
 

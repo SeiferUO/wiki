@@ -13,7 +13,7 @@ Everything about the shard's custom systems: how they work, what they do and the
 | [Core Systems](core/player.md) | Player stats, weapons, spellcasting, experience, houses, Garden Plots, guilds, dueling, Danger Zones, leaderboards and commands |
 | [Skills](skills/index.md) | How each skill works: stealth, taming, tracking, scavenging and more |
 | [Combat](combat/formulas.md) | Combat formulas, parrying and shields, Region Domination, WOTA, Deathmatch and training NPCs |
-| [Bard](bard/spellsongs.md) | Spellsongs, the Battle Lute and the Bardic Codex |
+| [Bard](bard/spellsongs.md) | Spellsongs and the Bardic Codex |
 | [Magic](magic/necromancy.md) | Necromancy, Chivalry, Spell Promotion, Grimoire, mage staves, Summoner Rituals |
 | [Masteries](masteries/index.md) | Death, Druidic and Wizard masteries |
 | [Codex](codex/weapon-codex.md) | Swords, Macing, Fencing and Archery codexes |

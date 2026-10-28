@@ -164,7 +164,7 @@ A net pulls up sea creatures. With **Fishing above 100**, there's a chance of **
 | 4 | 105 |
 | 5 | 110 |
 
-Loot includes **1,000 gold × level** (plus Fortune), enhancement scrolls (25% × level), mastery items and mage items (15% × level each), imbuing resources, runic components and special loot. Your Fishing skill counts as luck for the chest.
+Loot includes **1,000 gold × level** (plus Fortune), enhancement scrolls (25% × level), mastery items and mage items (15% × level each), imbuing resources, runic components and special loot. See [Waterstained chests](treasure.md#waterstained-chests) for the full loot table.
 During Sea Legends, a waterstained chest also gives **cargo points**. Opening one counts for the Treasure Hunt weekly task.
 
 ### Fisher's Guild

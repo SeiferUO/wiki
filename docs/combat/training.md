@@ -6,6 +6,8 @@ A **sparring partner** is a training dummy you can keep in your house. It's for 
 
 - It never moves, never fights back and takes **no damage** from players or pets. It heals itself, so it never dies.
 - Hit it with any weapon or spell to train.
+- Your **stats** train too, as your skills gain.
+- Send your **pets** at it to train their skills and stats. Pet special abilities don't trigger on it.
 - **Getting one:** place a **duelist contract** in a house you own. It counts as one of the house's **5 custom NPCs**.
 - **Removing it:** the house owner uses its context menu to dismiss it. The contract goes back to their backpack.
 

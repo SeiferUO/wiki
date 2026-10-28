@@ -13,8 +13,6 @@ Monsters you (or your pets) kill while you [can earn XP](../core/experience.md#w
 - the Newbie Dungeon and Pit Trials,
 - tamed, summoned or animated creatures.
 
-You also need to have moved within the last 5 minutes.
-
 ## 1. Per-kill drop
 
 Each kill has a chance to drop a rare item straight into the corpse. The chance goes up with the monster's difficulty tier *(set by staff)*. Per-kill drops never count against your daily limits.
@@ -44,8 +42,6 @@ When your points reach the **threshold** *(set by staff)*, you get a guaranteed 
 | Server rare-drop event | set by staff |
 
 The total treasure bonus is capped at **+30%**.
-
-**Daily limits:** kill-point rewards are limited per account every 24 hours (Lesser / Regular / Greater limits *set by staff*).
 
 ## Rare tiers
 

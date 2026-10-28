@@ -9,7 +9,7 @@ You can't use a public moongate while:
 - you're **criminal**,
 - you're **escorting** an NPC,
 - you're **casting** a spell,
-- you're in **combat** and a VvV member or have any murder counts.
+- you're in **combat** and a Militia member or have any murder counts.
 
 Turn on *Gate Warning* in your [options](compendium.md#options) to get a confirmation before entering moongates.
 

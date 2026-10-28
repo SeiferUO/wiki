@@ -14,7 +14,7 @@ Say **[compendium** to open your Compendium. It's the hub for your character: st
 | **Stores & Donations** | The shops. |
 | **Global / Weekly / Daily Quests** | Quest progress (see [Quests](../quests/daily-weekly.md)). |
 | **Leaderboards** | Top 10 boards (see below). |
-| **Options** | Your toggles (see below). |
+| **Options** | Your toggles (see [Player Options](options.md)). |
 | **Server Rules** | The rules. |
 | **Community Wiki** | Opens this wiki. |
 | **Realm Patch Notes** | Patch notes. |
@@ -28,26 +28,7 @@ Treasure Hunters · Paragon Slayers · Boss Slayers · Monster Slayers · Militi
 
 ## Options
 
-Options are saved per account. Open them from the Compendium or with **[options**.
-
-| Option | When on |
-|---|---|
-| Hunger Warning | Tells you when you're getting hungry |
-| Safe Looting | Ignores blue corpses so you don't loot by accident and go criminal |
-| Monster Difficulty | Shows a monster's difficulty and barding |
-| Gate Warning | Asks before you enter a moongate |
-| XP Messages | Shows character XP messages |
-| Insurance Warning | Warns you when leaving a safe zone with uninsured items |
-| Scrolls Priority | Uses scrolls before reagents when casting |
-| Ignore enchanting materials | Salvaging magic items only gives Arcane Dust |
-| Prevent Destruction | Auto-stores an item that's about to break |
-| Skill Gain Messages | Shows skill gain chances |
-| Duel Queue Messages | Shows duel queue announcements |
-| PvP Event Messages | Shows PvP event announcements |
-| Disable Scavenging | Turns off scavenging when you carve |
-| Stealth Messages | Shows stealth overhead messages |
-| Disable Transmog | Turns off transmog when you equip items |
-| Auto Stun | Turns on automatic stun |
+Your account-wide toggles. See [Player Options](options.md) for what each one does.
 
 ## FAQ highlights
 

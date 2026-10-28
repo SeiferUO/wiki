@@ -109,8 +109,6 @@ These add together and are **capped at 50%**:
 | Guild prestige buffs | 5% per level |
 | Bard protection, Taunt (15%+), Rising Star | bard bonuses |
 | Druid stances (Ram, Worm, Ophidian Mage) | 10% + Nature mastery level |
-| Armored mount / barded Swamp Dragon | 2.5% at 50k XP, 5% at 100k, 7.5% at 150k, 10% at 200k |
-| Aesthetic mount | 5% + 1% per level |
 
 Wizard stances (Mana Shield, Elusive Form, Arcane Skin) apply after the cap.
 
@@ -135,27 +133,12 @@ Pets cure after 5–10 s.
 
 Champion-tier monsters, champion minions and global quest bosses **don't regenerate HP**.
 
-## Loot, Fame and Karma
-
-- Loot quality rises with tier: Meager → Average → Rich → Very Rich → Filthy Rich → Ultra Rich → Super Boss.
-- Mage monsters drop reagents and can drop spell scrolls. Melee monsters have a 25% chance to drop gems.
-- Weak animals drop no loot. Bosses (Mini-boss and up) use their own loot tables.
-- In danger zones, Hard-tier and stronger monsters can drop a power scroll (max 5% chance).
-
-### Looting rights
-
-- Everyone who did damage is ranked. The **first attacker gets a 25% damage bonus** for this ranking.
-- You get **looting rights and Fame/Karma** if you did at least **6% of the top damager's damage**.
-- Damage from your pets and summons counts as yours.
-- In a party, Fame and Karma are **split evenly** between members.
-
 ## Pets
 
 ### Taming and control
 
 - You need **Animal Taming and Animal Lore both at or above** the creature's taming requirement to control it.
 - Creatures with a taming requirement of 29.1 or lower always obey.
-- You can only own **one independent pet** at a time.
 - **Golems** need 200 combined points of Item Identification, Tinkering, Remove Trap and Detect Hidden instead.
 
 ### Loyalty and bonding
@@ -180,13 +163,13 @@ A resurrected bonded pet comes back with:
 
 ### Pet power scrolls
 
-Drop a pet power scroll on an Unchained pet or golem to raise its skill cap:
+Drop a pet power scroll on an Unchained pet or golem to raise one skill's cap by **+1**, up to:
 
-| Scroll color | Raises cap up to |
+| Scroll | Max cap |
 |---|---|
-| Hue 2773 | 110 |
-| Hue 2774 | 115 |
-| Hue 2394 | 120 |
+| Creature Powerscroll | 110 |
+| Mythical Creature Powerscroll | 115 |
+| Legendary Creature Powerscroll | 120 |
 
 The pet must already have the skill. You can't use scrolls in PvP.
 
@@ -203,31 +186,11 @@ Pets with the same pack instinct, all attacking the same target within 5 tiles, 
 
 The **Howling Pack Pelt** artifact cloak adds +3% per tier.
 
-### Pet bonus damage on monsters
-
-Pet and summon **abilities** gain flat damage from their owner's skills:
-
-| Follower | Bonus damage |
-|---|---|
-| Unchained pets | + Animal Taming × 0.2 + Animal Lore × 0.1 |
-| Golems | + (Tinkering + Remove Trap + Detect Hidden) × 0.15 |
-| Summons | + Spirit Speak × 0.3, + up to 25% from arcane scrolls, + up to 25% from summon level |
-
-Damage-over-time abilities get about half of this.
-
-### Followers take more damage
-
-In PvM, monsters deal **+15% damage to pets** and **+50% to summons** *(default)*.
-Unchained pets below stage 1 take half damage.
-
-Summons more than 12 tiles from their master deal 5% less damage per extra tile (max −90%).
-
 ### Pets in PvP
 
 - Pet melee against players is capped at **15 damage** *(default)*.
 - Pet Wrestling and Tactics count as **100 max** in PvP.
 - Pet Strength counts as 250 per control slot (min 150) for damage *(default)*.
-- **Legendary monsters always hit pets**, and Hard-tier or stronger monsters get +25% accuracy against them.
 
 ### Pack animals
 

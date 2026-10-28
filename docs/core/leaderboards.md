@@ -15,7 +15,7 @@ Say **[leaderboard** (or **[lb**, **[rankings**, **[ranks**) to open the global 
 | **Harvesters** | harvest resources (+1 per successful harvest) |
 | **Seafarers** | turn in finds to the Fisher's Guild, catch prize fish (+5/+10) and help sink legendary pirates (+25) |
 | **Invasions** (Top Invasion Defenders) | earn [invasion](../quests/invasions.md) score |
-| **Militia** | win PvP fights in VvV and capture dungeon idols (+10) |
+| **Militia** | win PvP fights in the Guild Militia and capture dungeon idols (+10) |
 | **Doom** | earn points in the Doom dungeon |
 | **Murderers** | have murder counts (your current Kills) |
 | **PvM Deaths** (Wall of Shame) | die to monsters |

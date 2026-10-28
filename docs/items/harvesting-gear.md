@@ -52,7 +52,7 @@ Wear the pieces while you harvest with **their** skill. Every successful harvest
 | Valorite / Frostwood | 17 |
 | Fish / big fish | 6 / 12 |
 
-The XP is **split** between all the matching pieces you're wearing that aren't maxed yet: each gets XP / (pieces × 1.15). No XP if you haven't moved for 4 minutes.
+The XP is **split** between all the matching pieces you're wearing that aren't maxed yet: each gets XP / (pieces × 1.15).
 
 | Level | 1 | 2 | 3 | 4 | 5 |
 |---|---|---|---|---|---|

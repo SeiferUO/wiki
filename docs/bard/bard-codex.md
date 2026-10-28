@@ -4,7 +4,7 @@ The **Bardic Codex** is the bard's talent book. Buy it from **Selwyn the Archivi
 
 ## Points
 
-- **Codex XP** comes from monster kills: **Fame ÷ 100** per kill (min 10), **+25%** while you have an aura active. Performing a song (below) gives +5.
+- **Codex XP** comes from monster kills: **Fame ÷ 100** per kill (min 10), **+25%** while you have an aura active.
 - XP for the n-th point: **800 × n + 2 × (n − 1)²**.
 - **Talent costs:** each talent has a base cost of 1, 2 or 3 points. Each tier after the first costs 1 point more than the one before.
 - Most talents have **5 tiers**. Those marked ³ have **3**.
@@ -77,4 +77,3 @@ With **100 Musicianship** and an instrument equipped, you can play real UO music
 
 - Say **[play** to pick from the songs you've learned. There are **55 songs** in all.
 - Learn songs from **Song Sheets**, found in paragon chests and pirate ship loot.
-- One song per **60 seconds**. Each performance gives +5 codex XP and +3 Tempo.

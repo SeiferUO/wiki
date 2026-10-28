@@ -85,9 +85,8 @@ Visit the **Quest Master** (the Weekly Task Giver) to pick up tasks. Progress is
 
 - You get **15 tasks per week** per account. Everything resets weekly.
 - You can only have one active task of each type, creature or dungeon. Each task can be finished once per week.
-- Completing a task has a **5% chance** that Lord British gives you **an extra task**. Vice vs Virtue region buffs add more.
+- Completing a task has a **5% chance** that Lord British gives you **an extra task**. Militia Controlled Regions add more.
 - More tasks can be bought with Arcane Dust or a **Letter of Recommendation** (from dungeon event quests).
-- You can't abandon a finished task. Resetting your talisman has a 1-hour cooldown.
 
 ### Task types
 

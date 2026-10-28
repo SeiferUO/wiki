@@ -29,7 +29,6 @@ Each +1 costs:
 - **Total mode** raises a property straight to its max in one click. It costs the same as raising it one point at a time.
 - **Lowering** a property costs 500 gold per point, and you get nothing back.
 - You can only add a **new** property if the item is under its property limit (3, or 4 for crafted items that came out with 4).
-- **Attack Speed, Accuracy, Life Leech, Area Damage, Lower Reagent Cost and Lower Mana Cost** can only be enchanted while you're in **Felucca**.
 - The table can't go above a property's **item max**. Going over that takes an Enhancement Scroll (below).
 
 ## Enhancement Scrolls
@@ -37,7 +36,7 @@ Each +1 costs:
 Enhancement Scrolls come in four kinds: **Weapon, Armor, Spellbook** (also mage staves) and **Shepherd's Crook**. Each one is for a single property.
 
 - A scroll adds **+1** to its property.
-- Scrolls can push a property **past its item max ("overcap")** by 5% of the max, and always by at least +1.
+- Scrolls can push a property **past its item max ("overcap")** by 15% of the max, and always by at least +1.
     - Example: a property capped at 20 can be scrolled to 21.
 - They follow the same item rules as the table: no artifacts, and blessed items only under an Item Bless Deed.
 - They can only add a new property if the item has **fewer than 3** special properties.
@@ -61,13 +60,13 @@ Ways to protect it:
 |---|---|
 | **Arms Lore** | Chance to stop it: Arms Lore / 480 (25% at 120) |
 | **Overcharge charges** | Each charge absorbs one degradation. Separate charges for weapons, armor and spellbooks. |
-| Domination *Fortification* buff | Extra chance to stop it (VvV) |
+| Domination *Fortification* buff | Extra chance to stop it (Guild Militia) |
 
 You get overcharge charges by turning in Enhancement Scrolls (1 charge per scroll, matching type) or from an **Overcharging Token** (+5 of each type).
 
 ## Crafting
 
-Crafted weapons, armor, spellbooks and mage staves roll special properties when made. Artifacts never do.
+Crafted weapons, armor, spellbooks and mage staves roll special properties when made. Artifacts never do: they have preset properties instead (see [Artifacts](artifacts.md)).
 
 ### Quality
 

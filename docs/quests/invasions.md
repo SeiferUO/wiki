@@ -6,14 +6,14 @@ An invasion is a server-wide event: an army of themed monsters attacks a region 
 
 The server builds up **seasonal invasion points**. When they reach **100**, the season's invasion begins in its target region *(theme and region set by staff)*.
 
-| Source | Seasonal points |
-|---|---|
-| Completing a daily quest | 0.5 (easy) / 1 (medium) / 2 (hard) |
-| Completing a weekly task | 1 |
-| Completing a global quest | 2 |
-| Killing a Legendary Loot Goblin | 1 |
-| Seasonal event items (Halloween, Easter, event vendor) | 1 |
-| Monster kills during some seasonal events (Crimson Courtship) | 0.02–1 by monster strength |
+Points come from:
+
+- Completing daily quests (harder quests give more)
+- Completing weekly tasks
+- Completing global quests
+- Killing Legendary Loot Goblins
+- Seasonal event items (Halloween, Easter, event vendor)
+- Monster kills during some seasonal events, such as Crimson Courtship (stronger monsters give more)
 
 Points don't build up while an invasion is running. The invasion controller shows the current progress.
 
@@ -55,7 +55,7 @@ Everyone who scores shares the credit, so a group effort pays everyone.
 When the invasion is defeated, every participant gets *(dividers set by staff)*:
 
 - **Event points**, **Monthly Challenge points** and **Achievement Points**, all based on your score.
-- A **special-hued item** in your bank if your score is at least **25% of the median** participant's score.
+- A **Tincture Vial** (Compassion Tincture) in your bank if your score is at least **25% of the median** participant's score.
 
 The top 3 are announced to the server.
 
@@ -74,15 +74,6 @@ Each theme has a **limited stock** of special items for the whole invasion. When
 | **Crimson** (Valentine's) | the Sanguine King | Crimson Cincture, Rosewall Shield, Crimson Eldritch Orb, Crimson Quiver, clothing bless deed, crimson roses, Urns of Resurrection |
 | **Undead Legion** | the Gravelord | Necronomicon, Gravelord Crown, ethereal Skeletal Steed, skeletal giant statue, bone decorations, Urns of Resurrection |
 | **Vorpal** (Easter) | the Vorpal Overlord | fruit tree deeds, Moonglow plant, bed of nails, Easter eggs, runic component shards (valorite, agapite, verite, golden), roses of Trinsic |
-| **Shadow Court** | a legendary vampire | — |
-| **Dragon Kind** | a legendary ancient wyrm | — |
-| **Glacial Advance** | Hoarfrost | — |
-| **Shame Warren** | the Hive Queen | — |
-| **Fey Wild** | a nature guardian | — |
-| **Sandstorm** | a legendary sphinx | — |
-| **Giant Horde** | a Blood Titan | — |
-| **Orc Waaagh** | a legendary orcish ravager | — |
-| **Eventide Assault** | a Stygian shaman abomination | — |
 
 ## Invasion zones
 

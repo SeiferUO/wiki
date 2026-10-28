@@ -9,7 +9,7 @@ Tracking runs **continuously** once you pick what to hunt. Every 10 seconds you 
 | Murderers | players with 5+ murder counts |
 | Criminals | criminal players |
 | Innocents | blue players |
-| Enemies | Vice vs Virtue players outside your guild and alliance |
+| Enemies | Guild Militia players outside your guild and alliance |
 | Monsters | any monster |
 | Healers | healer NPCs |
 

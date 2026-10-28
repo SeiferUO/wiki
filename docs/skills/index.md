@@ -27,4 +27,3 @@ Several non-combat skills also give combat bonuses. They're covered on their own
 | Inscription | buff duration, scroll damage, magic reflect | [Spellcasting](../core/spellcasting.md) |
 | Item Identification | wand echo chance | [Spellcasting](../core/spellcasting.md#3-pvm-bonus-damage-player-vs-monster) |
 | Cartography | damage against Chest Guardians | [Weapons](../core/weapons.md#4-pvm-bonus-damage) |
-| Camping | carrying capacity | [Player](../core/player.md#stats) |

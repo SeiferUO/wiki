@@ -61,7 +61,7 @@ In PvM, Casting Recovery (spellbook, jewelry, crook, runes) shortens it by up to
 - **Scrolls first:** when you cast from your book and have a matching scroll in your backpack or mage satchel, the scroll is used instead of reagents.
   You can turn this off with the account option *ScrollsPrio*.
 - Scrolls and wands never use reagents. Casting in a duel pit is free.
-- Casting damage or summon spells on Felucca wears down non-blessed spellbooks.
+- Casting damage or summon spells wears down non-blessed spellbooks.
 
 ## Fizzling
 
@@ -189,7 +189,7 @@ When your pet or summon casts on a monster, these add together:
 | **Herding** (and your crook's bonus) | +Herding ÷ 8 % plus the crook bonus, see [Shepherd's Crook & Herding](../pets/herding.md) |
 | **Follower Boss Damage** (runes, crook) | against boss-sized monsters, capped *(default)* |
 | Guild prestige buff *Pet Spell Damage* | +5% per level (Unchained pets) |
-| Domination control points (VvV) | creature or summon spell damage |
+| Domination control points (Guild Militia) | creature or summon spell damage |
 | Gravelord Crown / Spring Fae Bonnet | +5% per tier to matching summons |
 | Fira mastery | bonus to pet Magic Arrow, Fireball, Explosion and Flame Strike |
 | Mystic pets below stage 2 | +25% |
@@ -210,7 +210,7 @@ The **Magic Reflect** spell absorbs (circle + 1) points per reflected spell unti
 
 ## Buffs and curses
 
-**Bless, Strength, Agility, Cunning, Curse, Weaken, Clumsy, Feeblemind** on Felucca:
+**Bless, Strength, Agility, Cunning, Curse, Weaken, Clumsy, Feeblemind**:
 
 ```
 amount   = 1 + Magery / 10           (11 at 100, 13 at 120)
@@ -259,20 +259,5 @@ You **can't recall or gate** when you are:
 
 - a criminal,
 - in combat,
-- overloaded,
-- carrying a faction sigil.
+- overloaded.
 
-### Where you can travel
-
-| Area (Felucca) | Recall out | Recall in | Gate | Mark | Teleport |
-|---|---|---|---|---|---|
-| Dungeons | ✅ | ❌ | ❌ | ❌ | ✅ |
-| Safe zones, faction strongholds | ✅ | ❌ | ❌ | ❌ | partly |
-| Lost Lands, Khaldun, Wind, Solen hives | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Champion spawns | ❌ | ❌ | ❌ | ❌ | ✅ |
-| Doom (gauntlet, lamp room, guardian room) | ❌ | ❌ | ❌ | ❌ | ✅ |
-
-!!! tip "Dungeon recall spots"
-    Some dungeons have a strange glowing item. Within 5 tiles of it you can mark runes and recall in and out freely.
-
-Spell damage lands **0.5 s** after the cast finishes.

@@ -13,7 +13,6 @@ chance × (1 + Hit Chance Increase %)
 ```
 
 - **Attack skill** is your weapon's skill (Swords, Macing, Fencing, Archery, Wrestling…).
-  The Battle Lute uses **Musicianship**.
 - **Defense skill** is the defender's weapon skill the same way.
 - **Bards:** if you have at least two of Musicianship, Peacemaking, Provocation and Discordance at 10+,
   the average of those skills (max 100) is used instead whenever it is higher.
@@ -35,16 +34,8 @@ The bonuses below are then added together and applied to the roll.
 | **Lumberjacking** (axes) | +1% per 5 points, max +20% (half for one-handed axes) |
 | **Mining** (bashing weapons) | +1% per 5 points, max +20% (half for one-handed) |
 | **Fletching** (ranged weapons) | +1% per 5 points, max +20% (half for one-handed) |
-| **Begging** (slashing weapons) | +1% per 5 points, max +20% |
+| **Scavenging** (slashing weapons) | +1% per 5 points, max +20% |
 | **Weapon quality** | Mastercrafted +30%, Exceptional +20%, Superior +10%, Low −10%, Decrepit −20%, Ruined −30% (max +20% in PvP) |
-
-Damage is then **halved when the target is a player**, and creature damage is always halved.
-
-### Battle Lute
-
-The [Battle Lute](../bard/battle-lute.md) replaces the skill bonuses:
-Provocation works like Tactics, Discordance like Anatomy and Peacemaking like Strength, plus quality.
-In PvP each bard skill counts as 100 max.
 
 ## Spell interruption (fizzle protection)
 
@@ -62,4 +53,4 @@ Best possible protection:
 - **PvM:** about **95%**
 - **PvP:** about **80%** (no Focus roll)
 
-Always uninterruptible: **wands**, and **first-circle Magery on Felucca**.
+Always uninterruptible: **wands**, and **first-circle Magery**.

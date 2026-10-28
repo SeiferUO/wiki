@@ -4,7 +4,7 @@ Guilds fight over **control points** in major regions. Holding a region gives yo
 
 ## Who can take part
 
-You must be in a **guild** and flagged for **Vice vs Virtue (VvV)**. Other players near the point don't count.
+You must be in a **guild** and flagged for the **Guild Militia**. Other players near the point don't count.
 
 ## Vulnerability
 
@@ -42,7 +42,7 @@ Stand within **12 tiles** of the point, alive and not hidden. Every **5 seconds*
 
 ## Region bonuses
 
-While your guild holds a region, every VvV member of the guild gets that region's bonus (**+15%** by default; the type and amount are set by staff per region):
+While your guild holds a region, every Guild Militia member of the guild gets that region's bonus:
 
 | Bonus | Effect |
 |---|---|
