@@ -127,14 +127,14 @@ Worn in the **earring** slot. Each necklace has one bonus:
 
 | Necklace | Bonus |
 |---|---|
-| Gold | +10% gold from creatures |
+| Gold | +10% gold from monsters killed by you or your pets and summons |
 | Harvesting | 5% chance of double harvest yields |
-| Silver | +10% damage to undead |
-| Daemon Slayer | +15% damage to daemons |
+| Silver | +10% damage to undead monsters, from your weapon, your spells, and your pets' and summons' attacks |
+| Daemon Slayer | +15% damage to daemonic monsters, from your weapon, your spells, and your pets' and summons' attacks |
 | Cleric | **+15%** healing from spells and bandages |
-| Friendship | **+10%** weapon and spell damage when a party or guild member (not on your IP) is within 12 tiles |
+| Friendship | **+10%** damage (your weapon, your spells, and your pets' and summons' attacks) when a party or guild member (not on your IP) is within 12 tiles |
 | Alchemist | 25% chance not to use up a potion |
-| Savagery | +5% chance to trigger Savagery |
+| Savagery | +5% chance to trigger Savagery (weapon hits) |
 | Reactive Armor | 5% chance to deal a monster's hit back to it and take no damage |
-| Poison Resistance | Full resistance to creature poison |
-| Gluttony | +25% hunger satiation |
+| Poison Resistance | 25% chance to resist poison from monsters |
+| Gluttony | 25% chance to skip each hunger loss |

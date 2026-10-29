@@ -43,6 +43,7 @@ nav:
       - Weapons & Melee: core/weapons.md
       - Spellcasting: core/spellcasting.md
       - Creatures: core/creatures.md
+      - Bestiary: core/bestiary.md
       - Instruments & Bard Skills: core/instruments.md
       - Experience System: core/experience.md
       - Template Manager: core/templates.md
@@ -58,6 +59,7 @@ nav:
       - Player Options: core/options.md
       - Global Chat: core/global-chat.md
       - Special NPCs: core/npcs.md
+      - Player Vendors: core/player-vendors.md
       - Global Vendor House: core/global-vendor.md
       - Player Commands: core/commands.md
   - Skills:
