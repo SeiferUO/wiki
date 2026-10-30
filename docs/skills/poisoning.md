@@ -6,19 +6,17 @@ How poison works, how to poison weapons and food, and what makes poison stronger
 
 A poisoned target takes damage every few seconds for **10 ticks**. The first tick comes 3.5 seconds after being poisoned.
 
-```
-tick damage = 1 + (target's current HP × poison %)   (kept between the min and max)
-```
+Each tick deals **at most 26 damage** (before the bonuses below), whatever the target's size. Below a certain HP, ticks get weaker:
 
-| Poison | % of current HP | Damage per tick | Tick every |
+| Poison | Damage per tick | Full 26 damage while the target has | Tick every |
 |---|---|---|---|
-| Lesser | 2.5% | 4–26 | 3 s |
-| Regular | 3.125% | 5–26 | 3 s |
-| Greater | 6.25% | 6–26 | 3 s |
-| Deadly | 12.5% | 7–26 | 4 s |
-| Lethal | 25% | 9–26 | 5 s |
+| Lesser | 4–26 | 1,000+ HP | 3 s |
+| Regular | 5–26 | 800+ HP | 3 s |
+| Greater | 6–26 | 400+ HP | 3 s |
+| Deadly | 7–26 | 200+ HP | 4 s |
+| Lethal | 9–26 | 100+ HP | 5 s |
 
-- Damage is based on **current** HP, so poison hits hardest on healthy targets.
+- Under that HP, a tick deals a share of the target's **current** HP (Lesser 2.5%, Regular 3.1%, Greater 6.25%, Deadly 12.5%, Lethal 25%), but never less than the minimum.
 - Half the time, a tick repeats the previous tick's damage.
 - A target that's already poisoned can't be poisoned again by a weapon hit.
 
