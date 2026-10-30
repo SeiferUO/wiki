@@ -52,6 +52,7 @@ nav:
       - Central Mailbox: core/mailbox.md
       - Guilds: core/guilds.md
       - Dueling: core/dueling.md
+      - Traveling/World Map: core/traveling.md
       - Public Moongate: core/moongate.md
       - Danger Zones: core/danger-zones.md
       - Leaderboards: core/leaderboards.md
@@ -64,6 +65,8 @@ nav:
       - Player Commands: core/commands.md
   - Skills:
       - Overview: skills/index.md
+      - Harvesting: skills/harvesting.md
+      - Crafting: skills/crafting.md
       - Stealth & Thievery: skills/stealth-thievery.md
       - Poisoning & Poison: skills/poisoning.md
       - Taming: skills/taming.md
