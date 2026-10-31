@@ -98,11 +98,11 @@ Necromancy spells have their own table. See [Necromancy](../magic/necromancy.md)
 
 ```
 Magery factor  = 1 + (Magery − 100) × 0.35%
-Eval Int factor = 1 + (Evaluating Intelligence − 100) × 0.45%
+Eval Int factor = 1 + (Evaluating Intelligence − 100) × 0.45%   (PvM above 100: 1% per point)
 damage = base × Magery factor × Eval Int factor
 ```
 
-At 120/120: ×1.07 × ×1.09 = **×1.17**. At 100/100 damage is unchanged.
+At 120/120 in PvM: ×1.07 × ×1.20 = **×1.28**. At 100/100 damage is unchanged.
 
 - **Evaluating Intelligence counts as 100 max in PvP.**
 - **Necromancy** uses Necromancy in place of Magery, and **Spirit Speak + Eval Int added together** in place of Eval Int alone.
@@ -117,7 +117,7 @@ Every bonus below is added together and applied at once. **The total is capped a
 | **Pure mage, no followers out** | +10% per circle for circles 1–3, **+25% per circle** for circles 4–8 (Flame Strike = +175%). Necromancy: +2.5% per point of required skill, max +225% |
 | **Casting from a scroll** (50+ Inscription) | +2% per 10 Inscription, max +50% |
 | **Spell Damage** property (armor, clothing, jewelry, crook) | +1% per point |
-| **Spell-specific spellbook property** (Magic Arrow, Harm, Fireball, Lightning, Mind Blast, Energy Bolt, Explosion, Flame Strike) | +1% per point, max +100% |
+| **Spell-specific spellbook property** (Magic Arrow, Harm, Fireball, Lightning, Mind Blast, Energy Bolt, Explosion, Flame Strike) | +1% per point (up to +50% on a spellbook or staff) |
 | **Spell Damage Increase runes** | +1% per point |
 | **Surge** | Focus/10 % chance (+ Surging property and runes) for **+30%** |
 | **Tracking** | up to +20% at 120, +20% more on the creature you're tracking |

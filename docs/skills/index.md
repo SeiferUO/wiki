@@ -1,6 +1,6 @@
 # Skills
 
-How each actively used skill works on the shard. Playing a melee or archery character? Start with the [Warrior Guide](../combat/warrior.md). Skill caps and skills that can go above 100 are on the [Player](../core/player.md#skills) page.
+How each actively used skill works on the shard. Playing a melee or archery character? Start with the [Warrior Guide](../combat/warrior.md). Playing a spellcaster? Start with the [Mage Guide](../magic/mage-guide.md). Skill caps and skills that can go above 100 are on the [Player](../core/player.md#skills) page.
 
 | Page | Skills |
 |---|---|

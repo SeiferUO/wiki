@@ -2,6 +2,8 @@
 
 Everything a melee or archery character needs in one place: what each skill gives you, how you hit, how you take less damage, how you heal and how you progress. Each section links to the page with the full rules.
 
+Playing a spellcaster instead? See the [Mage Guide](../magic/mage-guide.md).
+
 ## What your skills do
 
 | Skill | At 100 | At 120 | More |

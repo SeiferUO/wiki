@@ -75,8 +75,8 @@ Mana regen starts at **7 seconds per point** and each source below makes it fast
 
 | Source | Effect |
 |---|---|
-| **Meditation** | −6 s at 100 (counts as 100 max in PvP) |
-| **Focus** | −5.75 s at 100 |
+| **Meditation** | −6 s at 100, −7.2 s at 120 (counts as 100 max in PvP) |
+| **Focus** | −5.75 s at 100, −6.9 s at 120 |
 | **Taste Identification** | −6.15 s at 120 |
 | **Intelligence** | −0.25 s at 125 Int |
 | **Hunger** | up to 23% faster when full |

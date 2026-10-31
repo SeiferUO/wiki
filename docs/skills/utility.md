@@ -11,7 +11,7 @@
 - You can't meditate in armor that isn't meditable, or below 10% HP.
 - Allowed in hand: spellbook, runebook, [Eldritch Orb](../magic/eldritch-orb.md), Summoner Lantern, Shepherd's Crook, mage staves, torches, lanterns and candles.
   Shields are off by default *(staff setting)*.
-- Active meditation makes mana regen **35% faster**. Full mana regen rules are on the [Player](../core/player.md#mana) page.
+- Meditation speeds up mana regen and keeps improving past 100 (counts as 100 in PvP). Active meditation makes it **35% faster** on top. Full mana regen rules are on the [Player](../core/player.md#mana) page.
 
 ## Spirit Speak
 
@@ -49,7 +49,7 @@
 ## Evaluating Intelligence
 
 - Shows a target's Intelligence. At 76+ it also shows their mana.
-- Scales spell damage (+0.45% per point above 100, counts as 100 in PvP) and buff strength.
+- Scales spell damage: in PvM +1% per point above 100 (×1.20 at 120). Counts as 100 in PvP. Also scales buff strength.
 
 ## Taste Identification
 

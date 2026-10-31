@@ -88,6 +88,7 @@ nav:
       - Spellsongs: bard/spellsongs.md
       - Bardic Codex: bard/bard-codex.md
   - Magic:
+      - Mage Guide: magic/mage-guide.md
       - Necromancy Spells: magic/necromancy.md
       - Chivalry: magic/chivalry.md
       - Spell Promotion: magic/spell-promotion.md
