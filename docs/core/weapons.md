@@ -227,12 +227,13 @@ See [Parrying & Shields](../combat/parrying.md) for the full rules, shield AR, S
 
 Each hit has a **2% chance** *(default)* to cost your weapon 1 durability point, at most once per minute *(default)*.
 
-- **Arms Lore** gives a chance to skip the loss: 2% per 10 points (20% at 100).
+- **Arms Lore** gives a chance to skip the loss: 2% per 10 points (20% at 100, 24% at 120).
 - Danger-zone fortification adds up to 15% more.
 - Below 10% durability you get a warning.
 - With the **StoreBeforeDestroy** account option on, a weapon at 1 durability is moved to your backpack before it breaks.
 
 Magic properties on non-artifact weapons can also slowly fade with use: 0.25% chance per hit *(default)*.
+Arms Lore gives a chance to stop the fade: Arms Lore / 4.8 % (21% at 100, 25% at 120).
 
 ## Hit spell properties
 

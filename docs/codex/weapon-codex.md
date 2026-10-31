@@ -11,7 +11,16 @@ Buy the codex books from **Selwyn the Archivist** (1,500 gold each).
 
 ### Points
 
-- Killing monsters with that weapon type gives codex XP: **Fame / 100** per kill (min 10). The *XP Bonus* talent adds +5% per tier.
+- Killing monsters with that weapon type gives codex XP. It's the same XP you get from the kill (see [Experience System](../core/experience.md)). The *XP Bonus* talent adds +5% per tier.
+- **Catch-up bonus:** new codexes level faster. Codex XP is multiplied by the number of points you've earned so far:
+
+    | Points earned | Codex XP |
+    |---|---|
+    | 0–49 | ×2 |
+    | 50–99 | ×1.5 |
+    | 100–149 | ×1.25 |
+    | 150+ | ×1 |
+
 - XP for the n-th point: **800 × n + 2 × (n − 1)²**.
 - Each talent's tiers cost 1 point more than the tier before.
 

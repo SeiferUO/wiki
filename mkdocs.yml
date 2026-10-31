@@ -75,6 +75,7 @@ nav:
       - Camping: skills/camping.md
       - Lore & Utility: skills/utility.md
   - Combat:
+      - Warrior Guide: combat/warrior.md
       - Combat Formulas: combat/formulas.md
       - Parrying & Shields: combat/parrying.md
       - Region Domination: combat/domination.md

@@ -32,7 +32,8 @@
 ## Arms Lore
 
 - Shows a weapon's or armor's condition and damage.
-- **Protects your weapon:** each point of Arms Lore lowers the chance of losing durability. That's **2% per 10 points** (20% at 100).
+- **Protects your gear:** Arms Lore gives a chance to skip durability loss on weapons, armor and shields. That's **2% per 10 points** (20% at 100, 24% at 120).
+- **Keeps magic properties:** it also gives a chance to stop a magic property from fading: **Arms Lore / 4.8 %** (21% at 100, 25% at 120).
 
 ## Item Identification
 
@@ -59,3 +60,5 @@
 
 - Shows who killed and looted a corpse, who picked a lock, and whether someone is a thief.
 - **Paladins:** evaluating a murdered person's corpse shows where the murderer (5+ counts) was last seen.
+- **Bigger bandage heals:** adds Forensics/10 to Forensics/7.5 HP to every bandage (+12 to +16 HP at 120). Also boosts Veterinary healing kits. See [Warrior Guide](../combat/warrior.md#healing).
+- **More carving resources:** feathers, meat, hides and scales from carving are multiplied by 1 + Forensics/100 (×2 at 100, ×2.2 at 120).

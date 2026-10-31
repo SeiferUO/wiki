@@ -1,6 +1,6 @@
 # Skills
 
-How each actively used skill works on the shard. Skill caps and skills that can go above 100 are on the [Player](../core/player.md#skills) page.
+How each actively used skill works on the shard. Playing a melee or archery character? Start with the [Warrior Guide](../combat/warrior.md). Skill caps and skills that can go above 100 are on the [Player](../core/player.md#skills) page.
 
 | Page | Skills |
 |---|---|
@@ -21,6 +21,7 @@ Several non-combat skills also give combat bonuses. They're covered on their own
 | Lumberjacking, Mining, Fletching, Begging | weapon damage by weapon type | [Combat Formulas](../combat/formulas.md#melee-damage) |
 | Focus | PvM hit chance, stamina and mana regen, spell protection, surge chance | [Weapons](../core/weapons.md#hit-chance), [Player](../core/player.md#regeneration) |
 | Tracking | PvM weapon and spell damage | [Tracking](tracking.md) |
+| Forensic Evaluation | bigger bandage heals | [Warrior Guide](../combat/warrior.md#healing) |
 | Arms Lore | protects weapon durability | [Weapons](../core/weapons.md#durability) |
 | Chivalry | weapon damage against players | [Weapons](../core/weapons.md#chivalry-in-pvp) |
 | Taste Identification | mana regen, cancels armor penalty | [Player](../core/player.md#mana) |

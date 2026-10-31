@@ -18,9 +18,9 @@ Every spell costs Virtue Marks. Mana is never used.
 
 | Action | Chance | Amount |
 |---|---|---|
-| **Hitting a monster** with a weapon | 20% + Chivalry/20 % + Focus/20 % (max 95%) | 1, or 1–2 vs Hard+, 1–3 vs Legendary+ |
+| **Hitting a monster** with a weapon | 35% + Chivalry/20 % + Focus/20 % (max 95%) | 1, or 1–2 vs Hard+, 1–3 vs Legendary+ |
 | **Killing a monster** | 10% (New/Easy), 25% Medium, 35% Hard, 50% Elite, 100% Legendary+ | same as above |
-| **Parrying** | half the hit chance | 1 |
+| **Parrying** with a shield | half the hit chance | 1 |
 
 - Fists and mage staves don't earn marks.
 - Each *Virtue Abundance* tier adds +1 per gain. The **Paladin Cloak** artifact adds +1.

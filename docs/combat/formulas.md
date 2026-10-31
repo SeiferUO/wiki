@@ -31,10 +31,10 @@ The bonuses below are then added together and applied to the roll.
 | **Tactics** | 0 = −50%, 50 = no change, 100 = +50%, 120 = +70%. Counts as 100 max in PvP. |
 | **Anatomy** | +1% per 5 points, plus +10% at 100 or more (120 Anatomy = +34%) |
 | **Strength** | +1% per 5 Strength |
-| **Lumberjacking** (axes) | +1% per 5 points, max +20% (half for one-handed axes) |
-| **Mining** (bashing weapons) | +1% per 5 points, max +20% (half for one-handed) |
-| **Fletching** (ranged weapons) | +1% per 5 points, max +20% (half for one-handed) |
-| **Scavenging** (slashing weapons) | +1% per 5 points, max +20% |
+| **Lumberjacking** (axes) | +1% per 5 points, +10% more at 100 or higher (PvM). PvP max +20%. Half for one-handed axes |
+| **Mining** (bashing weapons) | +1% per 5 points, +10% more at 100 or higher (PvM). PvP max +20%. Half for one-handed |
+| **Fletching** (ranged weapons) | +1% per 5 points, +10% more at 100 or higher (PvM). PvP max +20%. Half for one-handed |
+| **Scavenging** (slashing weapons) | +1% per 5 points, +10% more at 100 or higher (PvM). PvP max +20% |
 | **Weapon quality** | Mastercrafted +30%, Exceptional +20%, Superior +10%, Low −10%, Decrepit −20%, Ruined −30% (max +20% in PvP) |
 
 ## Spell interruption (fizzle protection)
