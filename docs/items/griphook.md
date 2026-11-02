@@ -38,5 +38,5 @@ Each trade-in collects 5 items, then you **claim** the reward. It goes to your b
 | Trade in 5 | Get |
 |---|---|
 | **Power scrolls** | A random **+1 power scroll** for one of 30 skills: crafting, harvesting, bard, taming, thief and utility skills |
-| **Mastery Ankhs** (PvM runes) | A random Mastery Ankh. Its tier is the **average** tier of the 5 you gave, rounded, but never above **Gold**. |
+| **Mastery Ankhs** (PvM runes) | A random Mastery Ankh. Its tier is the **average** tier of the 5 you gave, rounded, with a **15% chance to go one tier higher**, but never above **Gold**. |
 | **Mastery orbs** | An orb of the mastery you pick in **Orb Preference** |

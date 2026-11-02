@@ -90,7 +90,7 @@ Percent reductions from these sources add together, up to **50%** of what's left
 | **Heal per bandage** | min = Anatomy/5 + Forensics/10 + Healing/5 + 3 |
 | | max = Anatomy/5 + Forensics/7.5 + Healing/2 + 10 |
 | **Success chance** | (Healing + 10)%, so always at 90+ Healing |
-| **Self-bandage time (PvM)** | 3.5 s at 120 Dexterity, +0.6 s per 10 Dexterity below that (min 2.5 s) |
+| **Self-bandage time (PvM)** | 4 s at 120 Dexterity, +0.6 s per 10 Dexterity below that (min 3 s). Heavy armor counts as lower Dexterity here (see [Armor and Dexterity](../core/weapons.md#armor-and-dexterity)) |
 | **Cure poison** | needs 60 Healing and 60 Anatomy |
 
 At **120 Healing, Anatomy and Forensics** a bandage heals **63 to 110 HP**. Without Forensics it's 51 to 94.

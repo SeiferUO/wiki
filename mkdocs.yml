@@ -141,6 +141,7 @@ nav:
       - Boats: items/boats.md
   - Quests:
       - Daily & Weekly: quests/daily-weekly.md
+      - Monster Contracts: quests/monster-contracts.md
       - Global Quests: quests/global.md
       - Global Events: quests/global-events.md
       - Achievements & Titles: quests/achievements.md

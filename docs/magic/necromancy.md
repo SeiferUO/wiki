@@ -128,6 +128,9 @@ Damage every second.
 
 ## Buffs and shields
 
+!!! tip "Auto-cast"
+    **Bone Armor** and **Evil Omen** have a small checkbox on their icon in the spell window (**[necrogump**). Tick it and the buff recasts itself whenever it runs out: a normal cast with reagents and mana. It waits while you're hidden, casting or out of reagents (it checks again a minute later), and pauses in duels, arenas and WOTA. Your choices last until the next server restart.
+
 ### Bone Armor
 
 A damage shield on yourself.

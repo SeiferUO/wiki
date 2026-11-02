@@ -90,7 +90,7 @@ Mana regen starts at **7 seconds per point** and each source below makes it fast
 - **Slowest: 7 s per point.**
 
 !!! tip "Armor and mana"
-    Armor that isn't meditable slows mana regen. **Taste Identification cancels the penalty**, fully at 120.
+    Armor that isn't meditable slows mana regen. **Taste Identification removes up to half of that penalty** (half at 120), so mages in heavy armor still regenerate slowly.
     A shield only counts against you if your Parry is below 80.
 
 ## Taking damage
@@ -104,6 +104,14 @@ reduction = (damage in window − 25) / 25 × 30%     (max 60%)
 ```
 
 This stops monster packs and pets from one-shotting you.
+
+### Stamina loss when hit
+
+Taking damage costs stamina: **(damage / 5) × (Dexterity / 100)**. A leftover fraction is a chance for one more point.
+
+- Outside duels, arenas and WOTA, heavier armor adds to it: studded +5%, bone +12.5%, ringmail +25%, chainmail +37.5%, **plate +50%** (full suits).
+- You never drop below 15% stamina from this.
+- Creatures and pets don't lose stamina this way.
 
 ### Bandages
 

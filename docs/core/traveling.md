@@ -18,6 +18,8 @@ A **recall rune** remembers one location. Mark it with the **Mark** spell, then 
 - Reagents: black pearl, blood moss, mandrake root.
 - The rune must be in your backpack.
 - Rename a marked rune to give it a name. It shows in your runebook and can be used for [My Locations](moongate.md#my-locations) on the public moongate.
+- **Unmarked runes stack**, so you can carry a whole pile as one item. Marking one from a stack splits it off; the rest stay stacked. Marked runes never stack.
+- A freshly marked rune **changes colour** so it's easy to tell apart from blank ones.
 
 ## Recall
 

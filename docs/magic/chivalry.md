@@ -59,6 +59,18 @@ At 15,000 Karma and 100 Chivalry, power is about **212**.
 
 You can't cast on criminals, murderers or monsters (except where noted). 100% success comes at required skill + 50.
 
+### Auto-cast buffs
+
+**Vigor, Divine Fury, Consecrate Weapon and Enemy of One** have a small checkbox on their icon in the spell window (**[paladingump**). Tick it and the buff **recasts itself** whenever it runs out.
+
+- It's a normal cast: words of power, cast time, Virtue Marks and mana, and it can be interrupted.
+- It waits while you're dead, hidden, already casting, holding a target cursor or paralyzed, and when you're short on Virtue Marks or mana. Consecrate Weapon waits until you hold a weapon.
+- It **pauses in duels, arenas and WOTA**, where Chivalry can't be cast.
+- Only one auto-cast fires at a time, a few seconds apart.
+- Your choices last until the next server restart.
+
+You can **walk and run while casting** these four buffs. Every other Chivalry spell still roots you while you cast.
+
 ### Close Wounds
 
 Heals a target within 2 tiles for **power / 6 + 0–2** (min 7, max 39). Doesn't work if the target is poisoned or mortally wounded.

@@ -202,6 +202,15 @@ Your armor rating (AR) lowers incoming melee damage by a random amount between *
 | Creatures | 150 |
 
 - PvM armor bonuses (virtual armor) are removed in PvP.
+
+### Armor and Dexterity
+
+Armor **doesn't lower your Dexterity** (and so doesn't lower your max stamina). Heavy armor has other costs instead:
+
+- **Stamina loss when hit** (PvM): heavier armor makes you lose more stamina when you take damage, up to **+50%** in full plate. See [Stamina](player.md#stamina-loss-when-hit).
+- **Slower mana regen**: see [Mana](player.md#mana).
+- **Bandages**: the armor's old Dexterity penalty still counts for your bandage time.
+- **In duels, arenas and WOTA**: the armor's old Dexterity penalty still counts for your **swing speed**, so heavy armor swings slower there.
 - **Mage staves ignore creature armor.** The monster's **Magic Resistance** lowers staff damage by 2.5% per 10 points instead *(default)*.
 - Monsters with Parry have a Parry/100 chance to block 20–25% of a hit.
 
