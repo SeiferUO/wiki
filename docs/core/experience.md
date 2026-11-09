@@ -67,6 +67,7 @@ Every system below gets the **full** XP amount when you meet its requirement:
 | [Summoner Rituals](../magic/rituals.md) | Spirit Speak 50+, a Summoner Lantern and a ritual selected |
 | [Chivalry](../magic/chivalry.md) | Chivalry 50+ and a Paladin Tome (or Chivalry 100) |
 | [Necromancy](../magic/necromancy.md) | Necromancy 50+ |
+| [Ninjitsu codex](../combat/ninjitsu.md#codex-of-the-shadow-blade) | 100 base Ninjitsu |
 | [Weapon codexes](../codex/weapon-codex.md) | 100 in the weapon skill with that weapon type equipped (Archery also needs a quiver) |
 | [Golems](../pets/golems.md) and [Unchained pets](../pets/unchained.md) | the pet is out with you |
 | [PvM runes](../items/ankhs-runes.md) | always (Rune XP) |

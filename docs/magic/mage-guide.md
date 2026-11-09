@@ -14,7 +14,7 @@ Playing a melee or archery character instead? See the [Warrior Guide](../combat/
 | **Focus** | Takes **5.75 s** off mana regen, **10%** Surge chance, **60%** chance to keep a spell when hit (PvM) | Takes **6.9 s** off mana regen, **12%** Surge chance, **72%** chance to keep a spell when hit | [Spell interruption](../combat/formulas.md#spell-interruption-fizzle-protection) |
 | **Inscription** | **+50%** buff duration, **+20%** damage when casting from scrolls, **10%** reflect against monster spells | **+60%** buff duration, **+24%** scroll damage, **12%** reflect | [Spellcasting](../core/spellcasting.md) |
 | **Resisting Spells** | Monster spells deal **15% less**, **10%** reflect against monster spells | **18% less**, **12%** reflect | [Resisting](../core/spellcasting.md#5-resisting) |
-| **Taste Identification** | Faster mana regen, cancels part of the armor penalty | Cancels the armor penalty fully | [Mana regen](../core/player.md#mana) |
+| **Taste Identification** | Faster mana regen, cancels part of the armor penalty | Cancels half of the armor penalty | [Mana regen](../core/player.md#mana) |
 | **Wrestling** | Your defense skill against weapons when you hold a spellbook or nothing | same | [Hit chance](../combat/formulas.md#hit-chance) |
 | **Necromancy + Spirit Speak** | The Necromancy school. Spirit Speak also adds to necro damage | Stronger necro spells | [Necromancy](../magic/necromancy.md) |
 | **Mysticism** | Weapon skill for [mage staves](mage-staves.md) | Higher staff hit chance | [Mage Staves](mage-staves.md) |

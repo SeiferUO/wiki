@@ -24,6 +24,7 @@ Several non-combat skills also give combat bonuses. They're covered on their own
 | Forensic Evaluation | bigger bandage heals | [Warrior Guide](../combat/warrior.md#healing) |
 | Arms Lore | protects weapon durability | [Weapons](../core/weapons.md#durability) |
 | Chivalry | weapon damage against players | [Weapons](../core/weapons.md#chivalry-in-pvp) |
+| Ninjitsu | techniques, weapon damage against players (doesn't stack with Chivalry) | [Ninjitsu](../combat/ninjitsu.md) |
 | Taste Identification | mana regen, cancels armor penalty | [Player](../core/player.md#mana) |
 | Inscription | buff duration, scroll damage, magic reflect | [Spellcasting](../core/spellcasting.md) |
 | Item Identification | wand echo chance | [Spellcasting](../core/spellcasting.md#3-pvm-bonus-damage-player-vs-monster) |

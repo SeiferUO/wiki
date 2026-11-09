@@ -255,4 +255,5 @@ Against monsters, weapon properties can cast a free spell on hit. The number is 
 ## Chivalry in PvP
 
 Every 10 points of Chivalry add **+1% weapon damage against players** (max +10%).
+**Ninjitsu** gives the same bonus. The two don't stack: only the higher skill counts, so 100 Chivalry and 100 Ninjitsu still give +10%.
 This does not apply to fists or mage staves.

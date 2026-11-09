@@ -54,7 +54,7 @@
 ## Taste Identification
 
 - Detects poison on food.
-- **Speeds up mana regen** and cancels the armor penalty on mana regen (fully at 120). See [Player](../core/player.md#mana).
+- **Speeds up mana regen** and cancels up to **half** of the armor penalty on mana regen (at 120). See [Player](../core/player.md#mana).
 
 ## Forensic Evaluation
 

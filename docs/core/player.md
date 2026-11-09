@@ -28,16 +28,20 @@ Each **Skill Orb** raises your total skill cap by **+1**, up to a maximum of **7
 
 ### Skills that can go above 100
 
-Only these skills can have their **cap raised above 100** (for example with power scrolls):
+Only these skills can have their **cap raised above 100** (up to 120, with power scrolls):
 
-Alchemy, Anatomy, Animal Lore, Animal Taming, Archery, Arms Lore, Begging, Blacksmithing, Camping, Carpentry,
-Cooking, Detect Hidden, Discordance, Evaluating Intelligence, Fencing, Fishing, Fletching, Focus,
-Forensic Evaluation, Healing, Herding, Hiding, Inscription, Lockpicking, Lumberjacking, Macing, Magery,
-Magic Resistance, Meditation, Mining, Musicianship, Parrying, Peacemaking, Poisoning, Provocation, Remove Trap,
-Spirit Speak, Stealth, Swordsmanship, Tactics, Tailoring, Taste Identification, Tinkering, Tracking, Veterinary,
-Wrestling.
+Alchemy, Animal Lore, Animal Taming, Arms Lore, Begging, Blacksmithing, Camping, Carpentry, Cooking,
+Detect Hidden, Discordance, Fishing, Fletching, Focus, Forensic Evaluation, Herding, Hiding, Inscription,
+Lockpicking, Lumberjacking, Mining, Musicianship, Peacemaking, Poisoning, Provocation, Remove Trap,
+Spirit Speak, Stealth, Tailoring, Taste Identification, Tinkering, Tracking, Veterinary.
 
-All other skills are reset to a cap of 100 when you log in. Items and buffs can still raise their **effective** value above 100.
+- Power scrolls for these drop from boss tokens, dungeon bosses, champions, peerless bosses, Doom and hunted monsters.
+- **Alchemy** and **Inscription** scrolls are sold by the shop vendor instead.
+- **Poisoning** can go above 100, but no power scroll drops for it.
+
+All other skills, including every combat and magic skill (weapon skills, Wrestling, Tactics, Anatomy, Healing,
+Parrying, Magery, Evaluating Intelligence, Meditation, Magic Resistance), are reset to a cap of 100 when you log in.
+Items and buffs can still raise their **effective** value above 100.
 
 !!! warning "Skills above 100 in PvP"
     Many formulas count skills as **100 max in PvP**: Tactics, Meditation, Inscription and the bard skills.
@@ -109,7 +113,8 @@ This stops monster packs and pets from one-shotting you.
 
 Taking damage costs stamina: **(damage / 5) × (Dexterity / 100)**. A leftover fraction is a chance for one more point.
 
-- Outside duels, arenas and WOTA, heavier armor adds to it: studded +5%, bone +12.5%, ringmail +25%, chainmail +37.5%, **plate +50%** (full suits).
+- Outside duels, arenas and WOTA, each armor piece you wear adds to it: studded +1%, bone +2.5%, ringmail +5%, chainmail +7.5%, **plate +10%** per piece.
+  A full plate suit (6 pieces with the helm) is **+60%**. Every shield counts as a plate piece (+10%).
 - You never drop below 15% stamina from this.
 - Creatures and pets don't lose stamina this way.
 

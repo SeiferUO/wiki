@@ -3,6 +3,8 @@
 Each weapon skill has its own **Codex**, a talent tree of combat procs and passives: **Swordsmanship, Macing, Fencing and Archery**.
 Buy the codex books from **Selwyn the Archivist** (1,500 gold each).
 
+Selwyn also sells the **Codex of the Shadow Blade** for Ninjitsu. It works differently, see [Ninjitsu](../combat/ninjitsu.md#codex-of-the-shadow-blade).
+
 ## Rules for every codex
 
 - **PvM only.** Procs only trigger against monsters. Codexes do nothing in PvP.
