@@ -91,6 +91,7 @@ Both chances reach 100% at 50 Ninjitsu.
 
 ### Iron Will
 For 6 seconds, every hit you take heals you for **3% of your life** and gives **1 Perfection** (at most twice per second).
+One Iron Will heals **at most 35% of your life** in total. After that, hits still give Perfection.
 
 ### Counter Attack
 For 2 seconds, the next melee attack against you is turned aside and answered with a counter strike.
@@ -190,10 +191,10 @@ Ninja weapons: Bokuto, Daisho, Kama, Lajatang, No-Dachi, Nunchaku, Sai, Tekagi, 
 | Counter Recovery | 3 | 1 | −1 s cooldown after a successful counter |
 | Counter Bleed | 5 | 2 | 2.5% chance a counter makes the monster bleed (75% of a weapon hit over 5 ticks) |
 | Evasion Duration | 5 | 2 | +0.5 s ethereal |
-| Execution Recovery | 5 | 1 | +4% life healed on an execution kill |
+| Execution Recovery | 5 | 1 | +1% life healed on an execution kill (15% → 20%) |
 | Execution Discipline | 3 | 1 | −1 s exposed after a failed execution |
 | Smoke and Mirrors | 3 | 1 | −4 s Vanish cooldown, +2 stealth steps |
-| Iron Will Recovery | 3 | 2 | +1% life per hit taken |
+| Iron Will Recovery | 3 | 2 | +1% life per hit taken (still 35% at most per Iron Will) |
 | Kiai Focus | 3 | 1 | −0.25 s Kiai charge |
 | Tokuno Venom | 2 | 2 | +1 poison level (max Lethal) |
 
