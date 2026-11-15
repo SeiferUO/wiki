@@ -121,7 +121,6 @@ nav:
       - Meta Relics: pets/relics.md
       - Pet Breeding: pets/breeding.md
       - Shepherd's Crook & Herding: pets/herding.md
-      - Cigal's Mystery Creatures: pets/mystery-creatures.md
       - Enhanced Summons: pets/summons.md
       - Golems: pets/golems.md
   - Items:
@@ -146,6 +145,9 @@ nav:
   - Quests:
       - New Player Tutorial: quests/tutorial.md
       - Daily & Weekly: quests/daily-weekly.md
+      - Mysterious Creatures: quests/mysterious-creatures.md
+      - Cigal's Mystery Creatures: quests/mystery-creatures.md
+      - Arcane Grimoire: quests/arcane-grimoire.md
       - Monster Contracts: quests/monster-contracts.md
       - Global Quests: quests/global.md
       - Global Events: quests/global-events.md
