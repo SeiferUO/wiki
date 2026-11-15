@@ -10,6 +10,7 @@ Everything about the shard's custom systems: how they work, what they do and the
 
 | Section | What's inside |
 |---|---|
+| [Patch Notes](patch-notes/index.md) | What changed in each patch, newest first |
 | [Core Systems](core/player.md) | Player stats, weapons, spellcasting, experience, houses, Garden Plots, guilds, dueling, Danger Zones, leaderboards and commands |
 | [Skills](skills/index.md) | How each skill works: stealth, taming, tracking, scavenging and more |
 | [Combat](combat/formulas.md) | Combat formulas, parrying and shields, Region Domination, WOTA, Deathmatch and training NPCs |

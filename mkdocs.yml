@@ -37,6 +37,9 @@ plugins:
   - search
 nav:
   - Home: index.md
+  - Patch Notes:
+      - patch-notes/index.md
+      - November 15, 2026: patch-notes/2026-11-15.md
   - Core Systems:
       - Player Character: core/player.md
       - Food & Hunger: core/food.md

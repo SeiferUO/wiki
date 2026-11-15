@@ -64,7 +64,7 @@ See [Casting time](../core/spellcasting.md#casting-time).
 
 !!! warning "Armor"
     Armor that isn't meditable slows your mana regen, and you can't actively meditate in it.
-    **Taste Identification** cancels the regen penalty, fully at 120. See [Mana](../core/player.md#mana).
+    **Taste Identification** cancels up to **half** of the regen penalty (at 120). See [Mana](../core/player.md#mana).
 
 ## Staying alive
 

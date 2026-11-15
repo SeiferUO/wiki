@@ -4,7 +4,7 @@ A **Garden Plot** is your own 10×10 garden. Inside its fence are **64 tiles of 
 
 ## Getting a plot
 
-- Buy a **Garden Plot Deed** from the shop (Home Items).
+- Buy a **Garden Plot Deed** from the **Farmer** NPC for **500,000 gold**.
 - **One plot per account.** It doesn't count toward your house limit.
 - Double-click the deed, then target the spot for the **center** of the plot. The fence opening goes on the south side.
 - If the spot is valid, the plot is outlined in green and you're asked to confirm.
@@ -18,7 +18,7 @@ A **Garden Plot** is your own 10×10 garden. Inside its fence are **64 tiles of 
 - Placed on **snow**, the plot gets a **snow fence** instead.
 - A new plot starts with **32 soil tiles** unlocked. Locked tiles are darkened; [garden levels](#garden-levels) unlock more.
 - The tile in the **middle** of the plot can't be planted: it's kept for the [scarecrow](#scarecrow).
-- **Double-click the sign** at the western corner (or the fence, or the dirt edge) to open the plot menu. The owner can give the garden a name, shown when you hover over the sign. **Double-click a plant** for its plant menu, or an empty soil tile to plant a seed.
+- **Double-click the sign** at the south-west corner (or the fence, or the dirt edge) to open the plot menu. The owner can give the garden a name, shown when you hover over the sign. **Double-click a plant** for its plant menu, or an empty soil tile to plant a seed.
 - The owner, the owner's other characters and **friends** can tend and harvest. Only the owner can add friends or re-deed the plot.
 - When you walk up to your plot you get a short status message: plants ready to harvest, thirsty, needing treatment or dead.
 
@@ -51,12 +51,17 @@ The top of the menu welcomes you to your garden and sums it up: how many soils y
 | **Ginseng, Mandrake Root, Nightshade, Blood Moss, Spider's Silk, Sulfurous Ash, Black Pearl** | 500–2,000 |
 | **Flax** | 100–200 flax |
 | **Pumpkin, Lettuce, Carrot, Coconut, Squash** | 50–250 |
+| **Fruits:** Peach, Pear, Lemon, Lime, Grapes, Apple | 50–250 |
+| **Melons and vegetables:** Watermelon, Cantaloupe, Honeydew Melon, Cabbage, Onion, Green Gourd, Yellow Gourd | 50–250 |
+| **Fresh Ginger** | 2–6 |
+| **Sheaf of Hay** | 4–12 |
 | **Magical Residue, Chaga Mushroom, Parasitic Plant, Luminescent Fungi** | 20–50 |
 | **Rare Plant** | 1 rare decorative plant |
 | **Potted Plant / Large Potted Plant** | 1 potted plant, 10% chance of a rare hued plant, 5 reward points |
 | **Crossbreeding plant seeds** | Seeds and resources, as usual |
 
-- **Garden seeds** come from [Scavenging](../skills/scavenging.md), [rare loot](../items/rare-loot.md) and certain creatures.
+- The **Farmer** sells pumpkin, lettuce, carrot, squash, fruit, melon, vegetable and hay seeds, as well as **fertile dirt**.
+- Other **garden seeds** come from [Scavenging](../skills/scavenging.md), [rare loot](../items/rare-loot.md) and certain creatures.
 - **Potted plant seeds** are sold by **Anna the florist** for 1 or 2 Platinum Coins.
 - To plant, double-click a seed and target the soil, or double-click an empty tile.
 
@@ -165,7 +170,7 @@ The middle tile is kept free for it at every level. If something is still growin
 
 ## Crossbreeding plants
 
-- Plant the seed in an empty tile. If you carry **fertile dirt**, you're offered to use 20 of it for faster growth.
+- Plant the seed in an empty tile. If you carry **fertile dirt** (sold by the Farmer), you're offered to use 20 of it for faster growth: the plant sometimes grows two stages at once.
 - Use the **Remove Plant** context option to take a plant (or a decorative plant) home. This frees the tile.
 - Some grown plants, such as hedges and cactuses, block movement. Plant those near the edges.
 
