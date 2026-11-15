@@ -141,6 +141,7 @@ nav:
       - PvM Property Caps: items/property-caps.md
       - Boats: items/boats.md
   - Quests:
+      - New Player Tutorial: quests/tutorial.md
       - Daily & Weekly: quests/daily-weekly.md
       - Monster Contracts: quests/monster-contracts.md
       - Global Quests: quests/global.md

@@ -25,13 +25,13 @@ A fully upgraded spell costs 9 points. You can reset your points for gold.
 
 | Spell | Tier 1 | Tier 2 | Tier 3 |
 |---|---|---|---|
-| **Magic Arrow** | 300% damage, 60 s cooldown | 300% damage, 40 s cooldown | 300% damage, 20 s cooldown |
-| **Harm** | 300% damage, +15% vs low-HP targets, 60 s cooldown | +30%, 40 s cooldown | +45%, 20 s cooldown |
+| **Magic Arrow** | 300% damage, 60 s cooldown; [Arcane Mark](#combos) | 300% damage, 40 s cooldown | 300% damage, 20 s cooldown |
+| **Harm** | 300% damage, 60 s cooldown; below 33% health: [Execute](#combos) | 40 s cooldown | 20 s cooldown |
 | **Fireball** | 10% chance to burn (10 damage over 5 s) | 12 fire-rain meteors | 4 fire fields |
-| **Lightning** | +20% damage | +40% damage | +60% damage |
+| **Lightning** | +10% damage, 5% chance to hinder; [Static](#combos) | +20% damage, 10% to hinder | +30% damage, 15% to hinder, every 4th Lightning arcs |
 | **Mind Blast** | +15% mana damage, +15% vs melee monsters, mage monsters −10% damage for 2 s | +20% / +30% / −15% for 2.5 s | +25% / +45% / −25% for 3 s |
-| **Energy Bolt** | chains to up to 5 more monsters within 6 tiles, sharing its damage; +25% vs frozen or rooted targets¹ | same, +50%¹ | same, +75%¹ |
-| **Explosion** | hits 3 targets in 2 tiles | 5 targets in 4 tiles | 8 targets in 6 tiles, 33% chance of fire fields |
+| **Energy Bolt** | chains to up to 5 more monsters within 6 tiles, sharing its damage; [Overload](#combos) +25% vs frozen, paralyzed or rooted targets | same, +50% | same, +75% |
+| **Explosion** | also hits 2 monsters within 3 tiles for 25% of its damage; [Detonate](#combos) | 4 monsters within 4 tiles, 50% | 6 monsters within 5 tiles, 75%, 33% chance of fire fields |
 | **Chain Lightning** | range 3, +25% damage | range 4, +50%, 1 storm vortex | range 5, +75%, 2 storm vortexes |
 | **Flame Strike** | a line of fire from you to the target hits monsters on it | + 25% chance per tile to leave fire fields | + explosions along the line |
 | **Poison** | 25% chance to raise the poison level | 25% chance to spread to 5 targets within 3 tiles | +25% poison damage |
@@ -46,7 +46,7 @@ A fully upgraded spell costs 9 points. You can reset your points for gold.
 | **Clumsy** | −15% attack and cast speed for 3 s | −25% for 4 s | −35% for 5 s |
 | **Feeblemind** | −20% spell damage for 5 s | −35% for 7 s | −50% for 10 s |
 | **Weaken** | −15% to −35% Strength for 8 s (more against stronger monsters) | −25% to −55% for 12 s | −35% to −75% for 16 s |
-| **Paralyze** | paralyzes 3 monsters within 3 tiles for 3 s | 5 within 4 tiles | 8 within 5 tiles |
+| **Paralyze** | paralyzes 3 monsters within 3 tiles for 3 s; [Brittle](#combos) | 5 within 4 tiles | 8 within 5 tiles |
 
 ## Buffs and utility
 
@@ -64,7 +64,32 @@ A fully upgraded spell costs 9 points. You can reset your points for gold.
 
 Non-mages get half the effect from Agility and Cunning, and less healing.
 
-¹ Only for mages without followers. The extra field layers need an active mage mastery and don't work in duels.
+The extra field layers need an active mage mastery and don't work in duels.
+
+**Mages without followers** (no summons, pets or golems out) get twice the Magic Arrow and Harm bonus damage on half the cooldown, twice the chance for Lightning to hinder, and after an Explosion their next spell on the same target deals **+25% per tier** (within 15 s).
+
+A **hindered** monster (Lightning) is frozen for 2 / 3 / 4 s (half as long for tough monsters) and can't be hindered again until 10 s after it ends.
+
+## Combos
+
+Upgraded spells also set each other up. Cast them in the right order for extra damage. These only work on monsters, never in PvP or duels, and characters who aren't mages get **half** of each bonus.
+
+| Combo | Spell | How it works |
+|---|---|---|
+| **Arcane Mark** | Magic Arrow | Each Magic Arrow marks the monster (up to **5 marks**, for 15 s). Your next *other* damaging spell on it uses all the marks: **+5 / 8 / 10% damage per mark** (tier 1 / 2 / 3), so up to +50%. |
+| **Brittle** | Paralyze | Monsters you paralyze become Brittle. Your next damaging spell on them deals **+20 / 35 / 50%** and shatters the freeze. |
+| **Execute** | Harm | Below **33% health**, every Harm deals **+75 / 125 / 175%** of its damage, with no cooldown. If it kills the monster, you get **5 / 7 / 9 mana** back. |
+| **Overload** | Energy Bolt | **+25% per tier** against anything frozen, paralyzed or rooted (by Paralyze, Lightning's hinder...). |
+| **Static** | Lightning | Each Lightning on the same monster within 8 s adds a stack (up to 5). Each new Lightning deals **+10% per stack** already built, so up to +50%. At **tier 3**, every 4th Lightning on the same monster arcs to up to 6 monsters around it for half its damage. |
+| **Detonate** | Explosion | On a **burning** monster the fire bursts: up to **5 / 6 / 7** monsters within **3 / 4 / 5 tiles** take **50 / 75 / 100%** of the Explosion's damage, and each has a **50 / 65 / 80%** chance to catch fire, ready for the next Explosion. |
+
+A few combos to try:
+
+- **Magic Arrow ×5 → Energy Bolt or Lightning:** spend five marks on a big spell.
+- **Paralyze → Energy Bolt:** Brittle *and* Overload on the same bolt.
+- **Lightning, Lightning, Lightning...:** Static builds up the longer you stay on one monster.
+- **Fireball or Explosion to set a pack on fire → Explosion:** Detonate spreads the fire through the pack.
+- **Finish with Harm** once a monster is under a third of its health.
 
 ## Spell scrolls bonus
 
