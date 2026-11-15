@@ -72,7 +72,7 @@ Kills by your pets count for you. Tamed and summoned creatures don't count as ki
 |---|---|---|---|
 | Fast Travel | Use Britain's [Moongate](../core/moongate.md) | 25 gold | 2 |
 | Nature's Bounty | Harvest 100 resources (ore, wood, fish) | 1,500 gold, 5 reward points, bonded pack horse statuette | 15 |
-| Keeping It Safe | Open the insurance menu (right-click yourself) | 25 gold | 2 |
+| Keeping It Safe | Open the insurance menu (left-click yourself) | 25 gold | 2 |
 | Shadows and Dust | Salvage a magical armament into dust with a tool | 50 gold | 2 |
 | The Butcher | Carve 10 creature corpses | 150 gold | 5 |
 | Know Your World | Open the [Compendium](../core/compendium.md) | 25 gold | 2 |
