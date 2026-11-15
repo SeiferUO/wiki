@@ -7,7 +7,7 @@ A champion spawn is a dungeon-wide fight. Clear 16 levels of spawn around the al
 | Spawn | Champion | Drops Champion Idol |
 |---|---|---|
 | Deceit | Paradigm | ✅ |
-| Glacia | Frozen Wyrm | ✅ |
+| Glacia | Frozen Wyrm **or** Rimewing (50/50) | ✅ Frozen Wyrm only |
 | Sandstorm | Sandspire | ✅ |
 | Destard | Progenitor Dragon | ✅ |
 | Eventide | Goliath | ✅ |
@@ -51,6 +51,7 @@ The champion is a dungeon boss and uses the shared [boss rewards](index.md#boss-
 
 - Paradigm, Frozen Wyrm, Sandspire, Progenitor Dragon, Terathan Queen, Goliath and Molten Wyvern have a **25%** chance to drop their **Champion Idol** for the [Tome of the Harrower](harrower.md).
 - Paradigm also has a 75% chance to drop the **Vile Heartstone** (a [Peerless](peerless.md) offering).
+- **Rimewing** (Glacia) has a **25%** chance to drop a **Mysterious Frozen Egg**. It hatches into an Aero Phoenix, a Cold Drake, a Glacial Wyrm or a Hill Griffon, already bonded to you (needs 50 Animal Taming and 50 Animal Lore, and room for a follower).
 
 ### Community rewards
 
