@@ -16,7 +16,8 @@ The **Codex of the Shadow Blade** upgrades every technique and the way you gain 
 
 - Characters who pick Ninjitsu at creation start with a **Katana** and the **Codex of the Shadow Blade**.
 - The codex is also sold by **Selwyn the Archivist** for 1,500 gold. See [Weapon Codex](../codex/weapon-codex.md).
-- Ninjitsu goes up to **100**. It rises when you land hits on monsters (35% chance per hit that builds Perfection).
+- Ninjitsu goes up to **100**. It rises when you land hits on monsters and when you use techniques.
+- Hitting monsters with a [ninja weapon](#way-of-the-blade) also raises it, even with **0 Ninjitsu**.
 
 ### Commands
 
